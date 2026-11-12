@@ -1,0 +1,1069 @@
+﻿ministere_source,occurrences,statut_normalisation,code_ministere,ministere_normalise
+"MINISTERE DE L’ECONOMIE, DES FINANCES ET DU DEVELOPPEMENT",978,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DE L’ADMINISTRATION TERRITORIALE, DE LA DECENTRALISATION ET DE LA SECURITE",869,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"MINISTERE DE L’ADMINISTRATION TERRITORIALE, DE LA DECENTRALISATION ET DE LA SECURITE INTERIEURE",726,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+MINISTERE DE L’ECONOMIE ET DES FINANCES,713,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DE LA JUSTICE, DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE",697,exact,JUSTICE,Ministère de la Justice
+"MINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE SCIENTIFIQUE ET DE L’INNOVATION",635,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+MINISTERE DE LA SECURITE,629,exact,SECURITE,Ministère de la Sécurité
+"MINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE ET DE L’INNOVATION",528,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"MINISTERE DE L’ECONOMIE, DES FINANCES ET DE LA PROSPECTIVE",524,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DE LA JUSTICE ET DES DROITS HUMAINS, CHARGE DES RELATIONS AVEC LES INSTITUTIONS",450,prefixe,JUSTICE,Ministère de la Justice
+PRESIDENCE DU FASO,392,hors_ministere,,
+"MINISTERE DE L’ENVIRONNEMENT, DE L’EAU ET DE L’ASSAINISSEMENT",391,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’EDUCATION NATIONALE ET DE L’ALPHABETISATION,377,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+MINISTERE DE L’ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISAFTION,341,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"MINISTERE DE LA CULTURE, DES ARTS ET DU TOURISME",331,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DE LA PROTECTION SOCIALE",322,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+MINISTERE DE LA SANTE,318,exact,SANTE,Ministère de la Santé
+"ministère de l’Economie, des finances et du développement",311,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de la Fonction publique, du travail et de la protection sociale",284,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"MINISTERE DES SPORTS, DE LA JEUNESSE ET DE L’EMPLOI",283,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"MINISTERE DE L’EDUCATION NATIONALE, DE L’ALPHABETISATION ET DE LA PROMOTION DES LANGUES NATIONALES",264,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+MINISTERE DE LA JUSTICE,260,exact,JUSTICE,Ministère de la Justice
+"MINISTERE DE L’AGRICULTURE, DES RESSOURCES ANIMALES ET HALIEUTIQUES",253,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATION REGIONALE ET DES BURKINABE DE L’EXTERIEUR",250,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère de la Santé,243,exact,SANTE,Ministère de la Santé
+"MINISTERE DE L’ENVIRONNEMENT, DE L’ECONOMIE VERTE ET DU CHANGEMENT CLIMATIQUE",232,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DES SPORTS ET DES LOISIRS,225,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"MINISTERE DE L’AGRICULTURE, DES RESSOURCES HYDRAULIQUES, DE L’ASSAINISSEMENT ET DE LA SECURITE ALIMENTAIRE",224,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DES INFRASTRUCTURES,213,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+MINISTERE DES RESSOURCES ANIMALES ET HALIEUTIQUES,212,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’ADMINISTRATION TERRITORIALE ET DE LA MOBILITE,203,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"MINISTERE DE LA FEMME, DE LA SOLIDARITE NATIONALE ET DE LA FAMILLE",199,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"MINISTERE DE L’ADMINISTRATION TERRITORIALE, DE LA DECENTRALISATION ET DE LA COHESION SOCIALE",198,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+MINISTERE DES AFFAIRES ETRANGERES ET DE LA COOPERATION,194,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+MINISTERE DE L’EAU ET DE L’ASSAINISSEMENT,190,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DES INFRASTRUCTURES ET DU DESENCLAVEMENT,171,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"MINISTERE DE LA COMMUNICATION, DE LA CULTURE, DES ARTS ET DU TOURISME",167,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE L’ENERGIE, DES MINES ET DES CARRIERES",167,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation",165,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"MINISTERE DE LA SOLIDARITE, DE L’ACTION HUMANITAIRE, DE LA RECONCILIATION NATIONALE, DU GENRE ET DE LA FAMILLE",156,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE L’URBANISME ET DE L’HABITAT,147,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Economie, des finances et de la prospective",147,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DES TRANSPORTS, DE LA MOBILITE URBAINE ET DE LA SECURITE ROUTIERE",141,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+PREMIER MINISTERE,141,hors_ministere,,
+MINISTERE DE L’AGRICULTURE ET DES AMENAGEMENTS HYDRAULIQUES,140,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"MINISTERE DE L’INDUSTRIE, DU COMMERCE ET DE L’ARTISANAT",130,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+ministère de l’Economie et des finances,130,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DE LA FEMME, DE LA SOLIDARITE NATIONALE, DE LA FAMILLE ET DE L’ACTION HUMANITAIRE",129,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE L’ADMINISTRATION TRRRITORIALE ET DE LA DECENTRALISATION,129,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+MINISTERE DE L’ENVIRONNEMENT ET DES RESSOURCES HALIEUTIQUES,124,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"MINISTERE DU COMMERCE, DE L’INDUSTRIE ET DE L’ARTISANAT",119,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation",110,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+MINISTERE DES MINES ET DES CARRIERES,109,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+MINISTERE DE LA COMMUNICATION ET DES RELATIONS AVEC LE PARLEMENT,108,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE L’ENSEIGNEMENT SECONDAIRE, DE LA FORMATION PROFESSIONNELLE ET TECHNIQUE",107,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+"MINISTERE DE L’ENSEIGNEMENT DE BASE, DE L’ALPHABETISATION ET DE LA PROMOTION DES LANGUES NATIONALES",103,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATION, DE L’INTEGRATION AFRICAINE ET DES BURKINABE DE L’EXTERIEUR",98,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère de l’Industrie, du commerce et de l’artisanat",94,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+PRIMATURE,93,hors_ministere,,
+"MINISTERE DE LA JEUNESSE, DE LA FORMATION ET DE L’INSERTION PROFESSIONNELLE",87,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+MINISTERE DES RESSOURCES ANIMALES,86,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DU DEVELOPPEMENT DE L’ECONOMIE NUMERIQUE ET DES POSTES,84,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère de l’Agriculture, des ressources animales et halieutiques",84,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’ACTION HUMANITAIRE ET DE LA SOLIDARITE NATIONALE,83,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère du Commerce, de l’industrie et de l’artisanat",82,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Energie, des mines et des carrières",81,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATION ET DES BURKINABE DE L’EXTERIEUR",80,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"MINISTERE DU DEVELOPPEMENT INDUSTRIEL, DU COMMERCE, DE L’ARTISANAT ET DES PETITES ET MOYENNES ENTREPRISES",80,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+MINISTERE DE LA SANTE ET DE L’HYGIENE PUBLIQUE,78,exact,SANTE,Ministère de la Santé
+MINISTERE DE L’AGRICULTURE ET DES AMENAGEMENTS HYDRO-AGRICOLES,77,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DES AFFAIRES ETRANGERES ET DE LA COOPERATION REGIONALE,77,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+MINISTERE DES ENSEIGNEMENTS SECONDAIRE ET SUPERIEUR,77,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+MINISTERE DE LA JEUNESSE ET DE LA PROMOTION DE L’ENTREPRENEURIAT DES JEUNES,71,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"MINISTERE DE LA COMMUNICATION, CHARGE DES RELATIONS AVEC LE CONSEIL NATIONAL DE LA TRANSITION",70,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère du Développement industriel, du commerce, de l’artisanat et des petites et moyennes entreprises",68,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"MINISTERE DE LA JEUNESSE, DE LA FORMATION ET DE L’INSERTION PROFESSIONNELLES",65,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère de la Santé et de l’hygiène publique,65,exact,SANTE,Ministère de la Santé
+MINISTERE DE L’ADMINISTRATION TERRITORIALE DE LA DECENTRALISATION ET DE LA SECURITE INTERIEURE,62,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"MINISTERE DE LA JEUNESSE, DE LA FORMATION PROFESSIONNELLE ET DE L’EMPLOI",60,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+MINISTERE DE L’ENERGIE,60,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+MINISTERE DE L’ACTION SOCIALE ET DE LA SOLIDARITE NATIONALE,58,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de l’Environnement, de l’économie verte et du changement climatique",57,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"MINISTERE DES INFRASTRUCTURES, DU DESENCLAVEMENT ET DES TRANSPORTS",56,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"MINISTERE DE L’URBANISME, DES AFFAIRES FONCIERES ET DE L’HABITAT",51,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Education nationale, de l’alphabétisation et de la promotion des langues nationales",49,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité",48,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Environnement, de l’eau et de l’assainissement",48,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE LA CULTURE ET DU TOURISME,45,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE LA TRANSITION DIGITALE, DES POSTES ET DES COMMUNICATIONS ELECTRONIQUES",45,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+ministère des Mines et des carrières,45,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère des Sports, de la jeunesse et de l’emploi",45,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière",45,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+MINISTERE DE LA DEFENSE NATIONALE ET DES ANCIENS COMBATTANTS,44,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Communication, de la culture, des arts et du tourisme",44,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Culture, des arts et du tourisme",44,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Femme, de la solidarité nationale et de la famille",41,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+ministère de la Jeunesse et de la promotion de l’entrepreneuriat des jeunes,41,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"MINISTERE DE LA FONCTION PUBLIQUE, DU TRAVAIL ET DE LA SECURITE SOCIALE",40,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"MINISTERE DE L’AGRICULTURE, DES AMENAGEMENTS HYDRO-AGRICOLES ET DE LA MECANISATION",39,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE,38,exact,JUSTICE,Ministère de la Justice
+ministère de l’Urbanisme et de l’habitat,38,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+Primature,36,hors_ministere,,
+ministère des Ressources animales et halieutiques,36,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE LA RECHERCHE SCIENTIFIQUE ET DE L’INNOVATION,35,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de la Femme, de la solidarité nationale, de la famille et de l’action humanitaire",35,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+ministère de la Sécurité,33,exact,SECURITE,Ministère de la Sécurité
+"MINISTERE DE LA JEUNESSE, DE LA PROMOTION DE L’ENTREPRENEURIAT ET DE L’EMPLOI",32,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+SECRETARIAT GENERAL DU GOUVERNEMENT ET DU CONSEIL DES MINISTRES,31,hors_ministere,,
+ministère de la Défense et des anciens combattants,31,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+ministère de la Défense nationale et des anciens combattants,30,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Solidarité, de l’action humanitaire, de la réconciliation nationale, du genre et de la famille",29,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE LA DEFENSE ET DES ANCIENS COMBATTANTS,28,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+ministère de l’Education nationale et de l’alphabétisation,28,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"MINISTERE DE LA JEUNESSE, DE LA PROMOTION DE L’ENTREPREUNARIAT ET DE L’EMPLOI",27,typo_probable,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"MINISTERE DE LA JUSTICE, DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE Les personnes ci-après sont nommées membres de la Commission nationale de l’organisation pour l’harmonisation en Afrique du droit des affaires (CONAHDA) pour un mandat de trois (03) ans : Représentants du Ministère de la Justice, des droits humains et de la promotion civique",27,exact,JUSTICE,Ministère de la Justice
+MINISTERE DE L’INTEGRATION AFRICAINE ET DES BURKINABE DE L’EXTERIEUR,27,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère des Infrastructures,26,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+ministère du Développement de l’économie numérique et des postes,26,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+ministère de l’Administration territoriale et de la décentralisation,25,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+ministère de l’Administration territoriale et de la mobilité,24,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+Collectivités territoriales,23,hors_ministere,,
+"MINISTERE DE L’URBANISME, DE L’HABITAT ET DE LA VILLE",23,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+MINISTERE DES MINES ET DE L’ENERGIE,23,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+ministère de l’Agriculture et des aménagements hydrauliques,23,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+ministère des Sports et des loisirs,23,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Justice, des droits humains et de la promotion civique",22,exact,JUSTICE,Ministère de la Justice
+ministère de l’Agriculture et des aménagements hydro-agricoles,22,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+ministère de l’Action humanitaire et de la solidarité nationale,21,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de l’Agriculture, des aménagements hydro-agricoles et de la mécanisation",21,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATION ET DES BURKINABE DE L’ETRANGER",20,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère de la Communication et des relations avec le Parlement,20,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Transition digitale, des postes et des communications électroniques",20,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+ministère de l’Eau et de l’assainissement,20,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Affaires étrangères, de la coopération régionale et des Burkinabè de l’extérieur",20,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère des Infrastructures et du désenclavement,20,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+MINISTERE DE LA CULTURE DES ARTS ET DU TOURISME,19,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+MINISTERE DE LA PROMOTION DE LA FEMME ET DU GENRE,19,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE L’ENSEIGNEMENT SECONDAIRE ET DE LA FORMATION PROFESSIONNELLE ET TECHNIQUE,19,typo_probable,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+Conseil régional de la Boucle du Mouhoun,18,hors_ministere,,
+"ministère de l’Administration territoriale, de la décentralisation et de la cohésion sociale",18,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité intérieure",18,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+personnel,18,hors_ministere,,
+usagers de l’eau,18,hors_ministere,,
+Premier ministère,17,hors_ministere,,
+Présidence du Faso,17,hors_ministere,,
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATION, DE L’INTEGRATION ET DES BURKINABE DE L’EXTERIEUR",16,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère de la Communication et des relations avec,16,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+COMMISSION ELECTORALE NATIONALE INDEPENDANTE,15,hors_ministere,,
+Chancellerie,15,hors_ministere,,
+MINISTERE DE L’ECONNMIE ET DES FINANCES,15,typo_probable,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+MINISTERE DE L’HABITAT ET DE L’URBANISME,15,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+ministère de la Communication et des relations avec le parlement,15,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Justice et des Droits humains, chargé des relations avec les institutions",15,prefixe,JUSTICE,Ministère de la Justice
+"MINISTERE DE L’ENVIRONNEMENT, DE L’ENERGIE, DE L’EAU ET DE L’ASSAINISSEMENT",14,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DU GENRE ET DE LA FAMILLE,14,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE L’ENSEIGNEMENT DE BASE DE L’ALPHABETISATION ET DE LA PROMOTION DES LANGUES NATIONALES,13,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+MINISTERE Sont nommés Contrôleur d’Etat,13,non_resolu,,
+ministère de l’Energie,13,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+MINISTERE DE L'ECONOMIE ET DES FINANCES,12,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DE L’ECONOMIE NUMERIQUE, DES POSTES ET DE LA TRANSFORMATION DIGITALE",12,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+MINISTERE DES AFFAIRES RELIGIEUSES ET COUTUMIERES,12,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+MINISTERE DES RESSOURCES ANIMALES ET HALIEUTIQUE,12,prefixe,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de la Jeunesse, de la formation et de l’insertion professionnelles",12,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+MINISTERE DE LA JUSTICE DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE,11,exact,JUSTICE,Ministère de la Justice
+"ministère de la Jeunesse, de la promotion de l’entrepreneuriat et de l’emploi",11,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère des Affaires étrangères et de la coopération,11,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+Chambre de commerce et d’industrie du Burkina Faso,10,hors_ministere,,
+MINISTERE DE L’EDUCATION NATIONALE ET DE L’ALPHABETSATION,10,typo_probable,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"MINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE SCIENTIFIQUE DE L’INNOVATION",10,typo_probable,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+juridictions Cour d’appel de Ouagadougou,10,hors_ministere,,
+"ministère de la Jeunesse, de la formation et de l’insertion professionnelle",10,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse, de la formation professionnelle et de l’emploi",10,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de l’Agriculture, des ressources hydrauliques, de l’assainissement et de la sécurité alimentaire",10,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+AUTORITE SUPERIEUR DE CONTROLE D’ETAT ET DE LUTTE CONTRE LA CORRUPTION (ASCE-LC),9,hors_ministere,,
+AUTORITE SUPERIEURE DE CONTROLE D’ETAT ET DE LUTTE CONTRE LA CORRUPTION (ASCE – LC),9,hors_ministere,,
+Association des municipalités du Burkina Faso (AMBF),9,hors_ministere,,
+"MINISTERE DE JUSTICE, DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE",9,typo_probable,JUSTICE,Ministère de la Justice
+MINISTERE DE LA JEUNESSE ET DE LA PROMOTION DE L’ENTREPREUNEURIAT DES JEUNES,9,typo_probable,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+MINISTERE DE l’INTEGRATION AFRICAINE ET DES BURKINABE DE L’EXTERIEUR,9,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"MINISTERE DES TRANSPORTS, DE LA MOBILITE URBAINE ET DE SECURITE ROUTIERE",9,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"MINISTERE L’AGRICULTURE, DES AMENAGEMENTS HYDRO-AGRICOLES ET DE LA MECANISATION",9,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+SERVICES DU PREMIER MINISTRE,9,hors_ministere,,
+ministère de la Justice,9,exact,JUSTICE,Ministère de la Justice
+"ministère des Affaires étrangères, de la coopération, de l’intégration africaine et des Burkinabè de l’extérieur",9,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+Collège représentant les Organisations professionnelles des travailleurs,8,hors_ministere,,
+MINISTERE DE LA JEUNESSE ET DE LA PROMOTION DE L’ENTRENEURIAT DES JEUNES,8,typo_probable,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+MINISTERE DE LA JUSTICE Les personnes ci-après sont nommées titulaires de charges notariales à Ouagadougou,8,exact,JUSTICE,Ministère de la Justice
+"MINISTERE DE L’AGRICULTURE, ET DES AMENAGEMENTS HYDRAULIQUES",8,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MUNISTERE DE L’AGRICULTURE ET DES AMENAGEMENTS HYDRAULIQUES,8,hors_ministere,,
+ministère de la Culture et du tourisme,8,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+ministère des Ressources animales,8,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+Chambre de commerce et d’industrie du Burkina Faso (CCI-BF),7,hors_ministere,,
+MINISTERE DE LA COMMUNICATION ET DES RELATIONS AVEC,7,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+MINISTERE DE L’ECONOME ET DES FINANCES,7,typo_probable,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+MINISTERE DE RESSOURCES ANIMALES,7,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"MINISTERE L’INDUSTRIE, DU COMMERCE ET DE L’ARTISANAT",7,typo_probable,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+ministère,7,hors_ministere,,
+"ministère de l’Economie numérique, des postes et de la transformation digitale",7,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère de l’Economie, des finances et du développement,",7,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+ministère de l’Environnement et des ressources halieutiques,7,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+ministère de l’Intégration africaine et des Burkinabè de l’extérieur,7,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère de l’Urbanisme, de l’habitat et de la ville",7,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme, des affaires foncières et de l’habitat",7,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+CONSEIL SUPERIEUR DE LA COMMUNICATION,6,hors_ministere,,
+MINISTERE DES SPORTS ET LOISIRS,6,typo_probable,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"MINISTRE DE LA FEMME, DE LA SOLIDARITE NATIONALE ET DE LA FAMILLE",6,hors_ministere,,
+"MINISTRE DE L’ENVIRONNEMENT, DE L’ECONOMIE VERTE ET DU CHANGEMENT CLIMATIQUE",6,hors_ministere,,
+Ministère de la Santé,6,exact,SANTE,Ministère de la Santé
+"PREMIER MINISTERE Sont nommées membres du Conseil de régulation de l’Autorité de régulation de la commande publique (ARCOP), les personnes ci-après pour un premier mandat de trois (03) ans : Au titre de l’Administration publique",6,hors_ministere,,
+Représentants des Organisations professionnelles des travailleurs,6,hors_ministere,,
+"ministère de l’Enseignement de base, de l’alphabétisation et de la promotion des langues nationales",6,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"ministère de l’Enseignement secondaire, de la formation professionnelle et technique",6,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+ministère de l’Habitat et de l’urbanisme,6,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’économie, des finances et du développement",6,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère des Infrastructures, du désenclavement et des transports",6,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+travailleurs,6,hors_ministere,,
+Conseil national du patronat burkinabè,5,hors_ministere,,
+MINISTERE DE L’ADMINISTRATION TERRIORIALE ET DE LA DECENTRALISATION,5,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"MINISTRE DES TRANSPORTS, DE LA MOBILITE URBAINE ET DE LA SECURITE ROUTIERE",5,hors_ministere,,
+collectivités territoriales,5,hors_ministere,,
+enseignants de l’Université Ouaga II,5,hors_ministere,,
+"ministère de la Fonction publique, du travail et de la sécurité sociale",5,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de l’Economie numérique, des postes et de la transformation digitale : - Monsieur Hugues Christian LINGANI, Mle 104 255 B, Administrateur des services financiers",5,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère des Enseignements secondaire et supérieur,",5,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+travailleurs du secteur de l’éducation de base,5,hors_ministere,,
+étudiants,5,hors_ministere,,
+Association des régions du Burkina Faso (ARBF),4,hors_ministere,,
+Associations des malades,4,hors_ministere,,
+Conseil national du patronat burkinabè (CNPB),4,hors_ministere,,
+Gendarmerie nationale,4,hors_ministere,,
+"MINISTERE DE LA COMMUNICATION, CHARGE DES RELATIONS AVEC",4,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+MINISTERE DE L’INDUSTRIE DU COMMERCE ET DE L’ARTISANAT,4,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+MINISTERE DES AFFAIRES ETRANGERES DE LA COOPERATION ET DES BURKINABE DE L’EXTERIEUR,4,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"MINSTERE DES TRANSPORTS, DE LA MOBILITE URBAINE ET DE LA SECURITE ROUTIERE",4,hors_ministere,,
+Ministère de l’Administration territoriale et de la mobilité,4,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"Ministère du Commerce, de l’industrie et de l’artisanat",4,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+Organisations professionnelles bénéficiaires des produits de la formation dans les filières enseignées à l’Ecole polytechnique de Ouagadougou,4,hors_ministere,,
+PRIMATURE Les personnes ci-après sont nommées Administrateurs,4,hors_ministere,,
+Personnel,4,hors_ministere,,
+employeurs,4,hors_ministere,,
+"ministère de la Communication, chargé des relations avec le Conseil national de la Transition",4,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de l’Economie, des Finances et du développement",4,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère des Affaires étrangères, de la coopération et des Burkinabè de l’extérieur",4,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération et des burkinabè de l’extérieur",4,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Mines et des carrières,",4,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère du Commerce, de l’industrie et de l’artisanat,",4,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+représentants des usagers de l’eau,4,hors_ministere,,
+syndicats des enseignants,4,hors_ministere,,
+Administration publique,3,hors_ministere,,
+COMMISSION ELECTORALE NATIONALE INDEPENDANTE (CENI),3,hors_ministere,,
+Chambre d’agriculture,3,hors_ministere,,
+Commission médicale d’établissement,3,hors_ministere,,
+Confédération nationale des travailleurs du Burkina (CNTB),3,hors_ministere,,
+Conseil national du patronat Burkinabè (CNPB),3,hors_ministere,,
+Conseil régional du Nord,3,hors_ministere,,
+ETATS AFRICAINS Administrateur représentant la République du Congo,3,hors_ministere,,
+Institut de l’environnement et de recherches agricoles,3,hors_ministere,,
+"MINISTERE DE LA JUSTICE, DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE − Monsieur Abdoulaye THIOMBIANO, Mle 59 965 X, Inspecteur de sécurité pénitentiaire, 2ème grade, 1er échelon, est nommé Directeur de la Maison d’arrêt et de correction de Kaya ; − Monsieur Windinmi Bertin ILBOUDO, Mle 203 386 W, Inspecteur de sécurité pénitentiaire, 2ème grade, 1er échelon, est nommé Directeur de la Maison d’arrêt et de correction de Bogandé ; − Monsieur Gané GANDEMA, Mle 208 048 T, Administrateur des services financiers, 1ère classe, 4ème échelon, est nommé Personne responsable des marchés du Secrétariat permanent du Conseil supérieur de la magistrature (CSM). E. AU TITRE DU MINISTERE DE L’ECONOMIE, DES FINANCES ET DU DEVELOPPEMENT",3,exact,JUSTICE,Ministère de la Justice
+"MINISTERE DE L’ECONOMIE, DES FINANCES ET DE DEVELOPPEMENT",3,typo_probable,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+MINISTERE DES INFRASTRUCTURES DU DESENCLAVEMENT ET DES TRANSPORTS,3,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+MINISTERE DES RESSOUCES ANIMALES ET HALIEUTIQUES,3,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DU DEVELOPPEMENT DE LECONOMIE NUMERIQUE ET DES POSTES,3,typo_probable,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+MINISTERE D’ETAT,3,non_resolu,,
+Maison de l’entreprise du Burkina Faso (MEBF),3,hors_ministere,,
+"Ministère de la Justice, des droits humains et de la promotion civique",3,exact,JUSTICE,Ministère de la Justice
+Ministère de l’Administration territoriale et de la décentralisation,3,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+Ministère de l’Economie et des finances,3,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+ORGANISATIONS A VOCATION REGIONALE DE LA SOCIETE CIVILE CULTURELLE Administrateur représentant l’Observatoire des politiques culturelles en Afrique (OCPA),3,hors_ministere,,
+Organisations à vocation régionale de la Société civile culturelle,3,hors_ministere,,
+PRESIDENCE DU FASO CONSEIL ECONOMIQUE ET SOCIAL (CES),3,hors_ministere,,
+Travailleurs,3,hors_ministere,,
+"ministère de la Culture, des Arts et du tourisme",3,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur André GANSONRE, Mle 59 697 M, Conseiller en gestion des ressources humaines",3,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Pierre BOUNDAONE, Mle 77 748 L, Conseiller en gestion des ressources humaines",3,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+ministère de la Jeunesse et de l’entrepreneuriat des jeunes,3,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse, de la formation et de l’insertion professionnelles,",3,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère de la Recherche scientifique et de l’innovation,3,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de la Santé : - Monsieur Robert KARAMA, Mle 118 893 J, Médecin de santé publique",3,exact,SANTE,Ministère de la Santé
+"ministère de la Santé,",3,exact,SANTE,Ministère de la Santé
+"ministère de la jeunesse, de la formation et de l'insertion professionnelle",3,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère de la santé,3,exact,SANTE,Ministère de la Santé
+"ministère de l’Agriculture et des aménagements hydro-agricoles : - Monsieur Inoussa WAONGO, Mle 22 168 R, Ingénieur du développement rural, Option vulgarisation agricole",3,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+ministère de l’Economie des finances et du développement,3,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+ministère de l’Enseignement secondaire et de la formation professionnelle et technique,3,typo_probable,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation,",3,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+ministère de l’Industrie du commerce et de l’artisanat,3,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+ministère des Affaires étrangères et de la coopération régionale,3,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère des Enseignements secondaire et supérieur,3,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+ministère des Mines et de l’énergie,3,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+ministère du Commerce de l’industrie et de l’artisanat,3,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du commerce, de l’industrie et de l’artisanat",3,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+organisations agréées du sous-secteur de l’élevage,3,hors_ministere,,
+"parquets généraux, près les Cours d’Appel",3,hors_ministere,,
+"personnel administratif, technique, ouvrier et de soutien (ATOS)",3,hors_ministere,,
+personnel du Fonds national de solidarité,3,hors_ministere,,
+AUTORITE SUPERIEURE DE CONTROLE D’ETAT-LUTTE CONTRE LA CORRUPTION,2,hors_ministere,,
+Agence pour la promotion des exportations du Burkina (APEX-Burkina),2,hors_ministere,,
+Association nationale des retraités du Burkina Faso,2,hors_ministere,,
+Association nationale des transformateurs d’Anacarde du Burkina Faso,2,hors_ministere,,
+Association professionnelle des banques et établissements financiers du Burkina Faso,2,hors_ministere,,
+Associations de promotion de volontariat,2,hors_ministere,,
+"Associations nationales des professionnels de l’informatique, à la Commission de l’informatique et des libertés (CIL) pour un dernier mandat de cinq (05) ans",2,hors_ministere,,
+Bureau burkinabè des droits d’auteur (BBDA),2,hors_ministere,,
+CONSEIL ECONOMIQUE ET SOCIAL,2,hors_ministere,,
+Centre national de la recherche scientifique et technologique (CNRST),2,hors_ministere,,
+Centre national des œuvres universitaires,2,hors_ministere,,
+Chambre de commerce et de l’industrie du Burkina,2,hors_ministere,,
+Chambre des mines du Burkina,2,hors_ministere,,
+Chambre des métiers de l’artisanat du Burkina Faso (CMA-BF),2,hors_ministere,,
+Comité national olympique et des sports burkinabè,2,hors_ministere,,
+Commission médicale d’établissement (CME),2,hors_ministere,,
+Conseil burkinabè des chargeurs,2,hors_ministere,,
+Conseil burkinabè des chargeurs (CBC),2,hors_ministere,,
+Conseil national du Patronat burkinabè,2,hors_ministere,,
+Conseil régional,2,hors_ministere,,
+Etats africains,2,hors_ministere,,
+Etudiants,2,hors_ministere,,
+Fédération nationale des artisans du Burkina Faso,2,hors_ministere,,
+Fédération nationale du cinéma et de l’audiovisuel du Burkina Faso (FNCA-BF),2,hors_ministere,,
+Fédérations sportives,2,hors_ministere,,
+Institut de recherches en sciences de la santé (IRSS),2,hors_ministere,,
+Ligue des Consommateurs du Burkina,2,hors_ministere,,
+MINISTERE DE LA SOLIDARITE NATIONALE ET DE L’ACTION HUMANITAIRE,2,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE L’AGRICULTURE ET DES AMENAGEMENTS HYDRO-AGRICOLES Le Conseil a adopté trois (03) décrets,2,prefixe,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’INTEGRATION AFFRICAINE ET DES BURKINABE DE L’EXTERIEUR,2,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATION ET DES DE BURKINABE DE L’EXTERIEUR",2,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+MINISTERE DU DEVELOPPEMENT DE L'ECONOMIE NUMERIQUE ET DES POSTES,2,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"MINISTERE LA FONCTION PUBLIQUE, DU TRAVAIL ET DE LA PROTECTION SOCIALE",2,typo_probable,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+Maison de l’entreprise du Burkina Faso,2,hors_ministere,,
+Membres représentant les organisations de producteurs agricoles,2,hors_ministere,,
+"Ministère de l’Agriculture, des ressources hydrauliques, de l’assainissement et de la sécurité alimentaire",2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"Ministère de l’Economie, des finances et du développement",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"Ministère de l’Industrie, du commerce et de l’artisanat",2,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"Ministère du Développement de l’économie numérique et des postes, pour un premier mandat de trois (03) ans",2,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+Mouvements et associations de jeunesse,2,hors_ministere,,
+Organisations patronales de l’hôtellerie et du tourisme du Burkina,2,hors_ministere,,
+Organisations paysannes,2,hors_ministere,,
+"PRIMATURE Les personnes dont les noms suivent sont nommées Membres au Conseil de régulation de l’Autorité de régulation de la commande publique (ARCOP), pour un premier mandat de trois (03) ans : Au titre de l’administration publique",2,hors_ministere,,
+Partenaires techniques et financiers,2,hors_ministere,,
+Personnel des Editions Sidwaya,2,hors_ministere,,
+Premier Ministère,2,hors_ministere,,
+Professeurs,2,hors_ministere,,
+"Présidence du Faso,",2,hors_ministere,,
+RECHERCHE SCIENTIFIQUE ET DE L’INNOVATION,2,hors_ministere,,
+SECTEUR PUBLIC,2,hors_ministere,,
+SIGNATAIRES DE L’ACCORD PORTANT CREATION DU CERAV/AFRIQUE : Administrateur représentant le Gouvernement du Burkina Faso,2,hors_ministere,,
+Secrétariat général du Gouvernement et du Conseil des ministres,2,hors_ministere,,
+Secrétariat permanent des Organisations non gouvernementales (ONG),2,hors_ministere,,
+Signataires de l’Accord portant création du CERAV/Afrique,2,hors_ministere,,
+Syndicat autonome des travailleurs de l’information et de la culture (SYNATIC),2,hors_ministere,,
+Syndicat des techniciens et ouvriers burkinabè (STOB),2,hors_ministere,,
+Syndicats des enseignants,2,hors_ministere,,
+TUTELLE FINANCIERE,2,hors_ministere,,
+Université de Koudougou,2,hors_ministere,,
+Universités publiques du Burkina Faso,2,hors_ministere,,
+délégués d’étudiants de l’Université Ouaga II,2,hors_ministere,,
+enseignants de l’Université polytechnique de Bobo-Dioulasso,2,hors_ministere,,
+"ministère Commerce, de l’industrie et de l’artisanat pour un dernier mandat de trois (03) ans",2,prefixe,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de Culture, des arts et du tourisme",2,typo_probable,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+ministère de Développement de l’économie numérique et des postes,2,typo_probable,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère de la Communication, chargé des relations avec",2,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Femme, de l’action sociale et de la solidarité nationale",2,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Alidou OUEDRAOGO, Mle 237 986 C, Conseiller en gestion des ressources humaines",2,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Suanyaba Rodrigue OBOULBIGA, Mle 217 036 A, Conseiller en gestion des ressources humaines",2,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Tégawendé Alfred SIMPORE, Mle 52 964 T, Conseiller en gestion des ressources humaines",2,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Yiépa Jean-Marie BAZIE, Mle 278 892 X, Conseiller en gestion des ressources humaines",2,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la sécurité sociale - Madame Flore Doussou BARRO/TRAORE, Mle 57 932 F, Inspecteur du travail",2,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Jeunesse, de la formation et de l’insertion professionnelles pour un premier mandat de trois (03) ans",2,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse, de la formation professionnelle et de l’emploi pour un premier mandat de trois (03) ans",2,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Justice, des droits humains et de la promotion civique : - Monsieur Amadou KANTAGBA, Mle 130 277 D, Magistrat",2,exact,JUSTICE,Ministère de la Justice
+"ministère de la Recherche scientifique et de l’innovation,",2,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de la Santé - Monsieur Brice Wilfried BICABA, Mle 105 003 V, Médecin de santé publique",2,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Madame Nessiné Nina KORSAGA, Mle 104 441 R, Maître de conférences",2,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Ambroise OUEDRAOGO, Mle 245 655 H, Médecin Spécialiste en santé publique, en remplacement de Madame Ouo Mireille COULIBALY",2,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Hamed Sidwaya OUEDRAOGO, Mle 238 832 A, Médecin de santé publique",2,exact,SANTE,Ministère de la Santé
+"ministère de la Solidarité, de l’action humanitaire, de la réconciliation nationale, du genre et de la famille : - Madame Wend-Kuuni Bernadette Marie Reine YAMEOGO/BELEM, Mle 92 517 F, Administrateur des affaires sociales",2,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la culture, des arts et du tourisme",2,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+ministère de la sécurité,2,exact,SECURITE,Ministère de la Sécurité
+"ministère de l’Action humanitaire et de la solidarité nationale : - Monsieur Abdou GUEBRE, Mle 55 814 E, Inspecteur d’éducation spécialisée",2,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de l’Action humanitaire et de la solidarité nationale : - Monsieur Yazouma Alexis DOH, Mle 51 710 J, Inspecteur d’éducation de jeunes enfants",2,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+ministère de l’Administration territoriale et de la décentralisation au Conseil de gestion du Fonds d’appui aux activités rémunératrices des femmes (FAARF) pour un premier mandat de trois (03) ans,2,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+ministère de l’Agriculture et des aménagements pour un premier mandat de trois (03) ans,2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des aménagements hydro-agricoles et de la mécanisation : - Monsieur Alassane GUIRE, Mle 501 542 Z, Ingénieur agronome",2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Monsieur Lalidia Bruno OUOBA, Mle 334 317 W, Enseignant- chercheur, en remplacement de Madame Lamouni Habibata ZERBO/OUERMI",2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Economie et des finances - Monsieur Casimir SAWADOGO, Mle 49 367 P, Inspecteur divisionnaire des douanes",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Dieudonné SAWADOGO, Mle 104 873 G, Inspecteur du trésor, en remplacement de Monsieur Moussa LENGANE",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Idrissa DIARRA, Mle 206 532 J, Géographe planificateur, en remplacement de Monsieur Dima Noaga Salifou DOLLE",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Jean-Baptiste KABORE, Mle 46 238 R, Inspecteur des impôts, en remplacement de Madame Talato Eliane DJIGUEMDE/OUEDRAOGO",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances, au Conseil de gestion du Fonds national pour la promotion du sport et des loisirs",2,prefixe,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie numérique, des postes et de la transformation digitale : - Monsieur Jean-Armand YANOGO, Mle 49 492 L, Ingénieur en conception informatique",2,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère de l’Economie, des finances et de la prospective : - Madame Fanta Maïmouna KAFANDO, Mle 104 809 Y, Administrateur des services financiers",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Paguidba David SAWADOGO, Mle 104 285 J, Administrateur des services financiers",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Seydou BARRO, Mle 96 911 K, Administrateur des services financiers",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Youssoufou SAWADOGO, Mle 50 055 T, Inspecteur des impôts",2,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans",2,prefixe,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Energie, des mines et des carrières pour un premier mandat de trois (03) ans",2,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Irenée SOMDA, Mle 49 408 U, Enseignant-chercheur",2,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Environnement, de l’eau et de l’assainissement : - Monsieur Nongbila Eugène BALMA, Mle 109 226 Z, Inspecteur des eaux et forêts",2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’économie verte et du changement climatique,",2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Industrie, du commerce et de l’artisanat,",2,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’enseignement supérieur, de la recherche scientifique et de l’innovation",2,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+ministère des Infrastructures et du désenclavement au Conseil de régulation de l’Autorité de régulation de la Commande publique (ARCOP) pour un premier mandat de trois (03) ans,2,prefixe,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+ministère des Ressouces animales et halieutiques,2,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Sports et des loisirs : - Monsieur Zinguim Hermann YABRE, Mle 46 459 F, Professeur certifié des lycées et collèges",2,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère des Sports et des loisirs au Conseil de gestion du Fonds national pour la promotion du sport et des loisirs (FNPSL) pour un premier mandat de trois (03) ans,2,prefixe,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de la météorologie (ANAM) pour un premier mandat de trois (03) ans, en remplacement de Monsieur Jean Gabriel SERE",2,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de la météorologie (ANAM), pour un premier mandat de trois (03) ans",2,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) en remplacement du Docteur Zakaria SORE dont il achève",2,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour une dernière période de trois (03) ans",2,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière, pour un premier mandat de trois (03) ans en remplacement de Monsieur Issiaka SIGUE",2,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des transports, de la mobilité urbaine et de la sécurité routière",2,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère du Commerce, de l’industrie et de l’artisanat ,",2,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat pour une dernière période de trois (03) ans",2,prefixe,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Développement industriel, du commerce, de l’artisanat et des petites et moyennes entreprises : - Monsieur Daouda OUEDRAOGO, Mle 200 569 H, Conseiller des affaires économiques",2,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+ministère en charge de Energie,2,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère en charge des Ressources hydrauliques,",2,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+organisations professionnelles bénéficiaires des produits de la formation dans les filières enseignées à l’EPO,2,hors_ministere,,
+personnel de l’ENESA,2,hors_ministere,,
+"personnels administratifs, techniques ouvriers et de soutien",2,hors_ministere,,
+représentants des auteurs littéraires,2,hors_ministere,,
+représentants des producteurs,2,hors_ministere,,
+secteur privé industriel,2,hors_ministere,,
+AUTORITE SUPERIEURE DU CONTROLE D’ETAT ET DE LUTTE CONTRE LA CORRUPTION,1,hors_ministere,,
+"Agence burkinabè de normalisation, de la métrologie et de la qualité",1,hors_ministere,,
+Agence nationale de la promotion des exportations (APEX-Burkina),1,hors_ministere,,
+Agence pour la promotion des exportations du Burkina Faso (APEX-Burkina),1,hors_ministere,,
+Artistes-interprètes ou exécutants,1,hors_ministere,,
+Association des commerçants importateurs et exportateurs de produits céréaliers d’élevage et du cru (ASIE CRU),1,hors_ministere,,
+Association des donneurs de sang,1,hors_ministere,,
+Association des municipalités du Burkina Faso,1,hors_ministere,,
+Association des parents d’enfants,1,hors_ministere,,
+Association des éditeurs du Burkina,1,hors_ministere,,
+Association professionnelle des sociétés d’assurances du Burkina (APSAB),1,hors_ministere,,
+Associations,1,hors_ministere,,
+Associations de défense des droits humains et mouvements à revendication spécifique,1,hors_ministere,,
+Associations des consommateurs,1,hors_ministere,,
+Associations professionnelles de la culture,1,hors_ministere,,
+Auteurs compositeurs d’œuvres musicales modernes,1,hors_ministere,,
+Auteurs compositeurs d’œuvres musicales traditionnelles,1,hors_ministere,,
+Auteurs de logiciels et de programmes d’ordinateurs,1,hors_ministere,,
+Auteurs d’Arts visuels,1,hors_ministere,,
+Auteurs d’œuvres Audiovisuelles,1,hors_ministere,,
+Auteurs d’œuvres dramatiques et dramatico-musicales,1,hors_ministere,,
+Auteurs d’œuvres littéraires écrites et orales,1,hors_ministere,,
+Banque centrale des Etats de l’Afrique de l’Ouest (BCEAO),1,hors_ministere,,
+Brigade nationale de Sapeurs-pompiers,1,hors_ministere,,
+Bureau burkinabè du droit d’auteur,1,hors_ministere,,
+CERAV / AFRIQUE,1,hors_ministere,,
+CONSEIL CONSTITUTIONNEL,1,hors_ministere,,
+Caisse d’assurance maladie des armées,1,hors_ministere,,
+Centrales syndicales du Burkina Faso,1,hors_ministere,,
+Centre national de la recherche scientifique et technologique,1,hors_ministere,,
+Centre national des arts du spectacle et de l’audiovisuel (CENASA),1,hors_ministere,,
+Chambre de Commerce et d’industrie du Burkina Faso (CCI-BF),1,hors_ministere,,
+Chambre de commerce et de l’industrie du Burkina (CCI-BF),1,hors_ministere,,
+Chambre de commerce et d’industrie du Burkina Faso (CCI-B),1,hors_ministere,,
+"Chambre de commerce, d’industrie du Burkina (CCI-BF)",1,hors_ministere,,
+Chambre des Métiers de l’artisanat du Burkina (CMA-BF),1,hors_ministere,,
+Chambre des mines,1,hors_ministere,,
+Chambre des métiers et de l’artisanat du Burkina Faso,1,hors_ministere,,
+Chambre des métiers et de l’artisanat du Burkina Faso (CMA-BF),1,hors_ministere,,
+Chambre du Commerce et d’industrie du Burkina Faso,1,hors_ministere,,
+Chambre nationale d’agriculture du Burkina Faso (CNA-BF),1,hors_ministere,,
+Collège représentant les observateurs,1,hors_ministere,,
+Comité interprofessionnel de l’Anacarde du Burkina Faso,1,hors_ministere,,
+Comité national olympique et des sports burkinabè (CNOSB),1,hors_ministere,,
+Comité permanent Inter-Etats de lutte contre la sécheresse dans le sahel (CILSS),1,hors_ministere,,
+Commission d’établissement,1,hors_ministere,,
+Commune de Bobo-Dioulasso,1,hors_ministere,,
+Commune de Ouahigouya,1,hors_ministere,,
+Confédération générale du travail du Burkina (CGTB),1,hors_ministere,,
+Confédération paysanne du Faso (CPF),1,hors_ministere,,
+Confédération syndicale du Burkina (CSB),1,hors_ministere,,
+Conseil National du Patronat,1,hors_ministere,,
+Conseil interprofessionnel des entreprises du Faso (CIDEF ex SCIMPEX),1,hors_ministere,,
+Conseil national des Organisations de la société civile,1,hors_ministere,,
+Conseil national du Patronat Burkinabè,1,hors_ministere,,
+Conseil national du Patronat burkinabè (CNPB),1,hors_ministere,,
+Conseil national du patronat Burkinabè,1,hors_ministere,,
+Conseil régional de l’Est,1,hors_ministere,,
+Conseil régional des Hauts bassins,1,hors_ministere,,
+Conseil régional du Centre,1,hors_ministere,,
+Conseil régional du Centre-Est,1,hors_ministere,,
+Conseil régional du Centre-Nord,1,hors_ministere,,
+Conseil régional du Sahel,1,hors_ministere,,
+Conseil scientifique international,1,hors_ministere,,
+Coopération française,1,hors_ministere,,
+Cours d’appel,1,hors_ministere,,
+Direction de l’Accès à la justice et de l’aide aux-victimes,1,hors_ministere,,
+Direction générale de la politique criminelle et du sceau,1,hors_ministere,,
+Direction générale des Affaires juridiques et judiciaires,1,hors_ministere,,
+Direction nationale de la Banque centrale des Etats de l’Afrique de l’Ouest (BCEAO),1,hors_ministere,,
+Droits Humains,1,hors_ministere,,
+Elèves de l’Ecole nationale des douanes,1,hors_ministere,,
+Elèves et stagiaires,1,hors_ministere,,
+Elèves stagiaires,1,hors_ministere,,
+Enseignants de l’Ecole de formation et de perfectionnement des travaux publics (EFP-TP),1,hors_ministere,,
+Enseignants permanents,1,hors_ministere,,
+Entrepreneurs culturels,1,hors_ministere,,
+Etablissements publics de santé,1,hors_ministere,,
+Fonds burkinabè de développement économique et social (FBDES),1,hors_ministere,,
+Fonds d’appui à la promotion de l’emploi (FAPE),1,hors_ministere,,
+Force ouvrière-Union nationale des syndicats (FO/UNS),1,hors_ministere,,
+Fédération des acteurs de santé du secteur privé de santé du Burkina Faso (FASPB),1,hors_ministere,,
+Fédération des sociétés coopératives d’électricité du Burkina Faso,1,hors_ministere,,
+Fédération nationale des Sociétés coopératives du Burkina,1,hors_ministere,,
+Fédération nationale des artisans du Burkina Faso (FENABF),1,hors_ministere,,
+Fédération nationale des professionnels de la scène (FN/PRO-SCENE),1,hors_ministere,,
+Fédération nationale du cinéma et de l’audiovisuel-Burkina Faso (FNCA-BF),1,hors_ministere,,
+Groupement professionnel des industriels (GPI),1,hors_ministere,,
+Groupement professionnel des industries (GPI),1,hors_ministere,,
+Groupement professionnel des pétroliers,1,hors_ministere,,
+INSTITUTIONS,1,hors_ministere,,
+Institut de l’environnement et de recherche agricole (INERA),1,hors_ministere,,
+Institut de recherche en science de la santé (IRSS),1,hors_ministere,,
+Institut de recherche en sciences appliquées et technologies (IRSAT),1,hors_ministere,,
+Institut de recherches en sciences appliquées et technologiques,1,hors_ministere,,
+Institut des sciences des sociétés (INSS),1,hors_ministere,,
+Institut national des Sciences des sociétés (INSS),1,hors_ministere,,
+Ligue des consommateurs du Burkina,1,hors_ministere,,
+MINISTERE DE LA COMMMUNICATION ET DES RELATIONS AVEC LE PARLEMENT,1,typo_probable,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE LA CULTURE ET DU TOURISME Monsieur Moumouni TAO, Mle 208 082 H, Administrateur des services financiers, 1ère classe, 4ème échelon, est nommé Directeur de l’administration et des finances de l’Office national du tourisme du Burkina (ONTB). C. AU TITRE DU MINISTERE DE L’HABITAT ET DE L’URBANISME",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE LA CULTURE, DES ARTS ET TOURISME",1,typo_probable,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"MINISTERE DE LA FEMME, DE LA SOLIDARITE NATIONALE ET DE L’ACTION HUMANITAIRE",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"MINISTERE DE LA FEMME, DE LA SOLIDARITE NATIONLE, DE LA FAMILLE ET DE L’ACTION HUMANITAIRE",1,typo_probable,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE LA JEUNESSE ET DE LA PROMOTION DE L’ENTEPRENARIAT DES JEUNES,1,typo_probable,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+MINISTERE DE LA JUCTICE DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE,1,typo_probable,JUSTICE,Ministère de la Justice
+"MINISTERE DE LA JUSTICE, DES DROITS HUMAINS ET DE LA PROTECTION CIVIQUE",1,prefixe,JUSTICE,Ministère de la Justice
+"MINISTERE DE LA SANTE ET DE L’HYGIENE PUBLIQUE Monsieur Issa OUEDRAOGO, Mle 104 180 A, Médecin de santé publique, catégorie PA, 1ère classe, 6ème échelon, est nommé Secrétaire général. F. AU TITRE DU MINISTERE DU DEVELOPPEMENT INDUSTRIEL, DU COMMERCE, DE L’ARTISANAT ET DES PETITES ET MOYENNES ENTREPRISES",1,exact,SANTE,Ministère de la Santé
+MINISTERE DE LA SANTÉ,1,exact,SANTE,Ministère de la Santé
+"MINISTERE DE LA SECURITE Monsieur Jean Bosco KIENON, Mle 25 763 U, Contrôleur général de Police, 5ème grade, 1er échelon, est nommé Directeur général de la Police nationale. D. AU TITRE DU MINISTERE DE L’ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION",1,exact,SECURITE,Ministère de la Sécurité
+MINISTERE DE L’ACTION HUMANITAIRE ET DE SOLIDARITE NATIONALE,1,typo_probable,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+MINISTERE DE L’ACTION SOCIALE ET DE LE SOLIDARITE NATIONALE,1,typo_probable,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"MINISTERE DE L’ADMINISTRATION TERRITORIALE, DE LA DECENTRALISATION ET DE LA SECURITE Monsieur Gnilé Hervé KONKORA, Mle 24 533, Officier de Police, est nommé Préfet du Département de Madouba, Province de la Kossi. B. AU TITRE DU MINISTERE DE LA RECHERCHE SCIENTIFIQUE ET DE L’INNOVATION Monsieur Zomenassir Armand BATIONO, Mle 93 696 C, Attaché d’intendance scolaire et universitaire, 1ère classe, 6ème échelon, est nommé Personne responsable des marchés (PRM) du Centre national de la recherche scientifique et technologique (CNRST). III.2. NOMINATION DANS LES CONSEILS D’ADMINISTRATION A. MINISTERE DE L’HABITAT ET DE L’URBANISME",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+MINISTERE DE L’AGRICULTURE ET DES AMENANGEMNTS HYDRAULIQUES,1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’EAU ET DE L’ASSAINISEMENT,1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’EAU ET DE L’ASSAINISSSEMENT,1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’EAU ET L’ASSAINISSEMENT,1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+MINISTERE DE L’ECONOMIE DES FINANCES ET DU DEVELOPPEMENT,1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+MINISTERE DE L’ECONOMIE NUMERIQUE ET DES POSTES,1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"MINISTERE DE L’ECONOMIE, DES FINANCES ET DU DEVELOPEMENT",1,typo_probable,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+MINISTERE DE L’ENERGIE DES MINES ET DES CARRIERES,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+MINISTERE DE L’INTREGRATION AFRICAINE ET DES BURKINABE DE L’EXTERIEUR,1,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"MINISTERE DE l’ECONOMIE, DES FINANCES ET DU DEVELOPPEMENT",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"MINISTERE DES AFFAIRES ETRANGERES, DE LA COOPERATIION ET DES BURKINABE DE L’EXTERIEUR",1,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+MINISTERE DES ENSEIGNEMENTS SUPERIEUR DE LA RECHERCHE SCIENTIFIQUE ET DE L’INNOVATION,1,typo_probable,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"MINISTERE DU COMMERCE, DE L'INDUSTRIE ET DE L'ARTISANAT",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+MINISTERE DU DEVELOPPEMENT NUMERIQUE ET DES POSTES,1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+MINISTERE D’ETAT AUPRES DE LA PRESIDENCE DU FASO,1,non_resolu,,
+"MINISTERE Madame Colette OUEDRAOGO/ROUAMBA, Economiste, est nommée Directrice générale de l’Agence de partenariat pour le développement (APD). B. AU TITRE DU MINISTERE DE LA JUSTICE, DES DROITS HUMAINS ET DE LA PROMOTION CIVIQUE",1,hors_ministere,,
+MINISTRE DE L’EAU ET DE L’ASSAINISSEMENT,1,hors_ministere,,
+Maison de l’entreprise,1,hors_ministere,,
+Maison de l’entreprise du Burkina,1,hors_ministere,,
+Ministère,1,hors_ministere,,
+Ministère de la Défense nationale et des anciens combattants,1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"Ministère de la Fonction Publique, du Travail et de la Protection Sociale",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"Ministère de la Fonction publique, du travail et de la sécurité sociale",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"Ministère de la Justice, des droits humains et de la promotion civique : - Madame Maimouna DERME/TRAORE, Mle 130 183 Z, Magistrat",1,exact,JUSTICE,Ministère de la Justice
+"Ministère de la Justice, des droits humains et de la promotion civique: - Monsieur Paulin BAMBARA, Mle 130 214 W, Magistrat",1,exact,JUSTICE,Ministère de la Justice
+Ministère de la Recherche scientifique et de l’innovation,1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+Ministère de la Sécurité,1,exact,SECURITE,Ministère de la Sécurité
+Ministère de la recherche scientifique et de l’innovation,1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+Ministère de la santé,1,exact,SANTE,Ministère de la Santé
+"Ministère de la santé : - Monsieur Honoré MEDA, Mle 12 967 G, Maître de recherches en épidémiologie",1,exact,SANTE,Ministère de la Santé
+Ministère de la sécurité,1,exact,SECURITE,Ministère de la Sécurité
+"Ministère de l’Agriculture des ressources hydrauliques, de l’assainissement et de la sécurité alimentaire",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"Ministère de l’Agriculture, des ressources hydrauliques, de l’assainissement et de la sécurité alimentaire : - Monsieur Sébastien YOUGBARE, Mle 207 918 J, Informaticien",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+Ministère de l’Education nationale et de l’alphabétisation,1,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"Ministère de l’Energie, des mines et des carrières",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"Ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+Ministère de l’Environnement et des ressources halieutiques,1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"Ministère de l’Environnement, de l’économie verte et du changement climatique",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+Ministère de l’économie et des finances,1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"Ministère des Affaires Etrangères, de la coopération et des Burkinabè de l’extérieur",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+Ministère des Enseignements secondaire et supérieur,1,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+Ministère des Enseignements secondaires et supérieur,1,typo_probable,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+Ministère des Mines et de l’énergie,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+Ministère des Ressources animales,1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+Ministère des enseignements secondaire et supérieur,1,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+Ministère des mines et des carrières,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"Ministère du Commerce, de l’industrie et de l’Artisanat",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+Observatoire national de biosécurité,1,hors_ministere,,
+Office national de l’eau et de l’assainissement (ONEA),1,hors_ministere,,
+Office national du tourisme burkinabè (ONTB),1,hors_ministere,,
+Ordre des pharmaciens du Burkina Faso,1,hors_ministere,,
+Ordre national des médecins du Burkina Faso,1,hors_ministere,,
+Ordres professionnels de la santé,1,hors_ministere,,
+Organisation des transporteurs routiers du Faso,1,hors_ministere,,
+Organisations de la société civile,1,hors_ministere,,
+Organisations de mobilisation de la jeunesse et de volontaires,1,hors_ministere,,
+Organisations des acteurs privés de l’équipement et de la maintenance,1,hors_ministere,,
+Organisations féminines,1,hors_ministere,,
+Organisations internationales de volontariat,1,hors_ministere,,
+Organisations non gouvernementales et les associations de développement,1,hors_ministere,,
+Organisations professionnelles de la culture,1,hors_ministere,,
+Organisations professionnelles des banques et établissements financiers,1,hors_ministere,,
+Organisations professionnelles du tourisme,1,hors_ministere,,
+Organisations syndicales de la recherche scientifique et de l’innovation,1,hors_ministere,,
+Organisations syndicales des travailleurs,1,hors_ministere,,
+Organismes de radiodiffusions,1,hors_ministere,,
+"PRESIDENCE DU FASO - Le Chef d’antenne régionale du Centre du Secrétariat permanent du Conseil national de lutte contre le SIDA et les infections sexuellement transmissibles (SP/CNLS-IST),",1,hors_ministere,,
+Personnel de l’Office national de sécurisation des sites miniers,1,hors_ministere,,
+Personnel de l’Office national d’identification,1,hors_ministere,,
+Personnel du BBDA,1,hors_ministere,,
+Personnel scientifique de l’Agence nationale de biosécurité (ANB),1,hors_ministere,,
+Producteurs de phonogrammes,1,hors_ministere,,
+Professionnels des arts du spectacle,1,hors_ministere,,
+Professionnels du cinéma et de l’audiovisuel,1,hors_ministere,,
+Représentant du Personnel de l’Office national d’identification,1,hors_ministere,,
+Représentation des enseignants et instructeurs permanents burkinabè de l’Institut,1,hors_ministere,,
+SOCIETE CIVILE,1,hors_ministere,,
+Secrétariat général du gouvernement et du Conseil des ministres,1,hors_ministere,,
+Secrétariat général du ministère de la Justice,1,hors_ministere,,
+Secrétariat permanent de la coordination des politiques sectorielles agricoles (SP-CPSA),1,hors_ministere,,
+Secrétariat permanent des engagements nationaux,1,hors_ministere,,
+Secrétariat permanent des engagements nationaux et des programmes d’urgence,1,hors_ministere,,
+Société des Fibres et textiles (SOFITEX),1,hors_ministere,,
+Société nationale burkinabè des d’hydrocarbures (SONABHY),1,hors_ministere,,
+Syndicat de la météorologie et de l’aviation civile et assimilés,1,hors_ministere,,
+Syndicat des commerçants importateurs et exportateurs (SCIMPEX),1,hors_ministere,,
+Syndicat des pharmaciens burkinabè,1,hors_ministere,,
+Syndicat national autonome des opérateurs économiques (SNAOEP),1,hors_ministere,,
+Syndicat national des commerçants importateurs et exportateurs de cola du Burkina (SYNACICOB),1,hors_ministere,,
+"Syndicat unique de la météorologie, de l’aviation civile et assimilés (SUMAC)",1,hors_ministere,,
+Syndicats,1,hors_ministere,,
+Union des Coopératives agricoles de la Vallée du Sourou,1,hors_ministere,,
+Union nationale de l’audiovisuel libre du Faso (UNALFA),1,hors_ministere,,
+Union nationale des cinéastes du Burkina,1,hors_ministere,,
+Union nationale des producteurs de l’Anacarde,1,hors_ministere,,
+Unité d’action syndicale (UAS),1,hors_ministere,,
+Université Norbert ZONGO de Koudougou,1,hors_ministere,,
+Université de Ouagadougou,1,hors_ministere,,
+Universités et établissements d’enseignement supérieur,1,hors_ministere,,
+apprenants du CEFPO,1,hors_ministere,,
+association des municipalités du Burkina Faso,1,hors_ministere,,
+associations des malades,1,hors_ministere,,
+auteurs compositeurs d’œuvres musicales,1,hors_ministere,,
+auteurs de logiciels et de programmes d’ordinateurs,1,hors_ministere,,
+auteurs dramatiques et dramatico-musicales,1,hors_ministere,,
+auteurs d’art visuel,1,hors_ministere,,
+bureau des élèves de l’Ecole nationale des régies financières,1,hors_ministere,,
+commune de Bobo-Dioulasso,1,hors_ministere,,
+corps professoral de l’END,1,hors_ministere,,
+délégués d’étudiants de l’Université polytechnique de Bobo-Dioulasso,1,hors_ministere,,
+employeurs du secteur privé,1,hors_ministere,,
+enseignants,1,hors_ministere,,
+enseignants de l’ENESA,1,hors_ministere,,
+enseignants de l’Institut supérieur de l’image et du son/Studio école,1,hors_ministere,,
+enseignants permanents de l’ENAREF,1,hors_ministere,,
+enseignants permanents de l’Ecole nationale des régies financières,1,hors_ministere,,
+filière bétail-viande Burkina Faso,1,hors_ministere,,
+l’Agence pour la promotion des exportations du Burkina (APEX-Burkina),1,hors_ministere,,
+mairie de Ouagadougou,1,hors_ministere,,
+mairie de la Commune de Dédougou,1,hors_ministere,,
+membres représentant les Organisations non gouvernementales (ONG),1,hors_ministere,,
+membres représentant les partenaires techniques et financiers (PTF),1,hors_ministere,,
+"ministre de l’Industrie, du commerce et de l’artisanat",1,hors_ministere,,
+"ministère chargé des Infrastructures, en remplacement de Monsieur Victorien TOE",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de de la Justice, des droits humains et de la promotion civique",1,typo_probable,JUSTICE,Ministère de la Justice
+ministère de la Communication,1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication et des relations avec le parlement,",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, Chargé des relations avec le Conseil national de la Transition",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Madame Safiata SORGHO/OUBDA, Mle 304 894 W, Conseiller en gestion du patrimoine culturel",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Monsieur Boukari TAO, Mle 216 788 D, Administrateur des services touristiques",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Monsieur Bètamou Fidèle Aymar TAMINI, Mle 88 796 S, Ingénieur du cinéma et de l’audiovisuel",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Monsieur Etienne LOMPO, Mle 36 683 V, Conseiller d’administration scolaire et universitaire",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Monsieur Pascal Yemboini THIOMBIANO, Mle 49 579 H, Conseiller en sciences et techniques de l’information et de la communication",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Monsieur Samuel GARANE, Mle 216 781 N, Administrateur des services touristiques",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme : - Monsieur Valentin Hervé Sanyan KAMBIRE, Mle 35 146 T, Professeur certifié",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Communication, de la culture, des arts et du tourisme au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans, en remplacement de",1,prefixe,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Culture et du tourisme : - Monsieur René Blaise BATIENON, Mle 15 022 M, Administrateur des services touristiques",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Culture, des arts et du tourisme : - Monsieur Lanssa Moïse KOHOUN, Mle 212 403 Z, Conseiller des affaires culturelles",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Culture, des arts et du tourisme : - Monsieur Samuel GARANE, Mle 216 781 N, Administrateur des services touristiques",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Culture, des arts et du tourisme : - Monsieur Soulémane OUEDRAOGO, Mle 26 222 T, Conseiller en sciences et techniques de l’information et de la communication",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Culture, des arts et du tourisme, Président du conseil d’Administration de l’Institut supérieur de l’image et du son/Studio Ecole (ISIS/SE) pour un mandat de trois (03) ans",1,exact,COMMUNICATION_CULTURE_TOURISME,"Ministère de la Communication, de la Culture, des Arts et du Tourisme"
+"ministère de la Défense et des anciens combattants : - Monsieur Yamba OUOBA, Officier des Forces armées nationales, en remplacement de Monsieur Antoine Emmanuel KY",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense et des anciens combattants au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans, en remplacement de Monsieur Souleymane OUEDRAOGO",1,prefixe,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense et des anciens combattants au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans, en remplacement de Monsieur Souleymane OUEDRAOGO. Le deuxième décret renouvelle le mandat de Monsieur Moussa KONVOLBO, Mle 39 646 G, Inspecteur des impôts, Administrateur représentant l’Etat, au titre du ministère de l’Economie et des finances au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour une dernière période de trois (03) ans. Le troisième décret nomme Monsieur Sanibè FAHO, Mle 119 817 C, Conseiller des affaires économiques, Administrateur représentant l’Etat, au titre du ministère de l’Industrie, du commerce et de l’artisanat",1,prefixe,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+ministère de la Défense nationale et des Anciens combattants,1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense nationale et des anciens combattants : - Monsieur Ahmed Ferdinand SOUNTOURA, Magistrat militaire",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense nationale et des anciens combattants : - Monsieur Joseph Aristide TIENDREBEOGO, Officier",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense nationale et des anciens combattants : - Monsieur Moussa TRAORE, Officier des forces armées",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense nationale et des anciens combattants : - Monsieur Ollo Stéphane Giles César KAMBOU, Colonel",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense nationale et des anciens combattants : - Monsieur Souleymane OUEDRAOGO, Officier, en remplacement de Monsieur Kounsaouma PALENFO",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Défense nationale et des anciens combattants : - Monsieur Soyo Ardiouma PALE, Officier",1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la Femme, de la solidarité nationale et de la famille - Monsieur Harouna KIEMTORE, Mle 55 786 S, Inspecteur d’éducation de jeunes enfants",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de la solidarité nationale et de la famille : - Madame Dagnang-Néwende Marie Thérèse SOMBOUGMA, Mle 220 415 Z, Conseiller d’éducation féminine",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de la solidarité nationale et de la famille : - Monsieur Joanis KABORE, Mle 027 828 C, Sociologue",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de la solidarité nationale, de la famille et de l’action humanitaire : - Madame Emma KIEMA/KANKYONO, Mle 46 391 Z, Inspecteur de l’éducation de la petite enfance",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de la solidarité nationale, de la famille et de l’action humanitaire : - Monsieur Moussa OUATTARA, Mle 53 482 W, Administrateur des affaires sociales",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de la solidarité nationale, de la famille et de l’action humanitaire : - Monsieur Wend-Pagnagda Roland Omer Thierry KELEM, Mle 53 519 N, Inspecteur d’éducation de jeunes enfants",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de la solidarité nationale, de la famille et de l’action humanitaire : - Monsieur Yacouba OUEDRAOGO, Mle 81 941 J, Inspecteur d’éducation de jeunes enfants",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Femme, de l’action sociale et de la solidarité nationale - Monsieur Boukary SAVADOGO, Mle 47 770 D, Administrateur des Affaires Sociales",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Fonction Publique, du travail et de la protection sociale",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+ministère de la Fonction publique et de la sécurité sociale,1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la Protection sociale",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale - Madame N’pèrè Adèle TRAORE, Mle 19 913 N, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Madame Hatiko ZINSONNI/COULIBALY, Mle 100 566 D, Attaché de direction",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Madame Pélagie KABRE, Mle 217 034 V, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Madame Salimata MAIGA/DAMA, Mle 20 887 I, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Alexis Mahamadi KINDO, Mle 18 280 C, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Amidou SAWADOGO, Mle 111 148 X, Administrateur des services financiers",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Brahima OUEDRAOGO, Mle 104 654 C, Administrateur des services financiers",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Brahima Sibiri PAKODTOGO, Mle 212 381 H, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Emmanuel NIGNAN, Mle 36 612 F, Professeur, en remplacement de Monsieur Boukary DOULKOM",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Esther Wendpouiré SAWADOGO, Mle 238 003 P, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Fatogoma SANON, Mle 216 828 X, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Hamidou OUEDRAOGO, Mle 247 155 N, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Hamidou SAWADOGO, Mle 54 620 H, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Jacques Sosthène DINGARA, Mle 56 688 U, Administrateur des services financiers",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Mahama TAKO, Mle 212 385 A, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Mahamadou NIAMPA, Mle 43 706 T, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Moussa TRAORE, Mle 212 388 Y, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Oumarou TOE, Mle 55 170 T, Conseiller en gestion des ressources humaines",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Sakré OUEDRAOGO, Mle 59 698 B, Conseiller en gestion des ressources humaines et management des administrations",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Sana Geoffroy KIENDREBEOGO, Mle 216 847 E, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale : - Monsieur Seydou BERTHE, Mle 57 922 V, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale Monsieur Adama SANOU, Mle 105 248 M, Inspecteur du travail",1,exact,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la protection sociale, pour un dernier mandat de trois (03) ans",1,prefixe,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et de la sécurité sociale au Conseil de gestion de l’Agence de financement et de promotion des petites et moyennes entreprises (AFP-PME), pour un premier mandat de trois (03) ans",1,prefixe,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+"ministère de la Fonction publique, du travail et la protection sociale",1,typo_probable,SERVITEURS_PEUPLE,Ministère des Serviteurs du Peuple
+ministère de la Jeunesse de la formation et de l’insertion professionnelle,1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère de la Jeunesse et de la promotion de l’Entrepreneuriat des jeunes,1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse et de la promotion de l’Entrepreneuriat des jeunes : - Monsieur Frédéric KABORE, Mle 77 995 D, Socio-Economiste",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère de la Jeunesse et de la promotion de l’entreprenariat des jeunes,1,typo_probable,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse et de la promotion de l’entrepreneuriat des jeunes : - Monsieur Larba PILGA, Mle 211 773 C, Conseiller de jeunesse et d’éducation permanente",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse et de la promotion de l’entrepreneuriat des jeunes : - Monsieur Moussa BANGRE, Mle 225 908 Z, Conseiller en emploi et en formation professionnelle",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse, de la formation professionnelle et de l’emploi : - Monsieur Brice Noël YOGO, Mle 44 080 G, Inspecteur de l’enseignement secondaire",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse, de la formation professionnelle et de l’emploi : - Monsieur Hamidou SAWADOGO, Mle 216 746 Y, Conseiller en emploi et en formation professionnelle",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Jeunesse, de la promotion de l’entrepreneuriat et de l’emploi : - Monsieur Lucien NIKIEMA, Mle 212 426 E, Conseiller en gestion des ressources humaines",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la Justice : - Monsieur Gnissinoaga Jean Baptiste OUEDRAOGO, Mle 30 112 U, Magistrat",1,exact,JUSTICE,Ministère de la Justice
+ministère de la Justice des droits humains et de la promotion civique,1,exact,JUSTICE,Ministère de la Justice
+ministère de la Justice des droits humains et de la promotion civique : - Madame R,1,exact,JUSTICE,Ministère de la Justice
+"ministère de la Justice, des droits humains et de la promotion civique : - Monsieur Pascal COMPAORE, Magistrat",1,exact,JUSTICE,Ministère de la Justice
+"ministère de la Santé - Monsieur Nakaossebgandin Eric TOUGOUMA, Mle 51 326 X, Administrateur des hôpitaux et des services de santé",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé - Monsieur Robert OUEDRAOGO, Mle 17 209 R, Conseiller de santé",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Madame Boezemwendé OUOBA/KABORE, Mle 111 278 N, Médecin épidémiologiste et biostatisticien, en remplacement de Monsieur Célestin N",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Madame Raïnatou Euphrasie Véronique ADJAMI/BARRY, Mle 94 468 N, Médecin de santé publique",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Adama OUATTARA, Mle 231 441 C, Médecin gynécologue-obstétricien, Enseignant-chercheur",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Albert HIEN, Mle 97 466 Y, Médecin de santé publique",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Brice Wilfried BICABA, Mle 105 003 V, Médecin de santé publique",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Dramane OUEDRAOGO, Mle 85 493 K, Ingénieur en génie civil",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Dramane ZINA, Mle 86 658 D, Administrateur des services de santé",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Eric Nakaossebgandin TOUGOUMA, Mle 51 326 W, Administrateur des hôpitaux et des services de santé",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Harouna KADIO, Mle 130 478 K, Magistrat",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Issaka YAMEOGO, Mle 80 528 U, Médecin épidémiologiste",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Kouesyandé Joseph SOUBEIGA, Mle 119 724 M, Médecin épidémiologiste et biostatisticien, en remplacement de Monsieur Dieudonné N",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Lansandé BANGAGNE, Officier pharmacien, en remplacement de Monsieur Salifou KONFE",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Paligwindé Simplice Eric BONKOUNGOU, Mle 85 760 B, Administrateur des services de santé",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Salifou KONFE, Mle 32 483 G, Médecin de santé publique",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé : - Monsieur Souleymane KABORE, Mle 110 819 C, Médecin de santé publique",1,exact,SANTE,Ministère de la Santé
+ministère de la Santé au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans,1,prefixe,SANTE,Ministère de la Santé
+"ministère de la Santé et de l’hygiène publique : - Monsieur Noaga Célestin YAMEOGO, Mle 82 413 B, Médecin de santé publique",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé et de l’hygiène publique : - Monsieur Sidbéwendé Pierre YAMEOGO, Mle 99 470 W, Médecin",1,exact,SANTE,Ministère de la Santé
+"ministère de la Santé, au Centre national des œuvres universitaires (CENOU)",1,prefixe,SANTE,Ministère de la Santé
+ministère de la Solidarité nationale et de l’action humanitaire,1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Solidarité, de l’action humanitaire, de la réconciliation nationale, du genre et de la famille : - Madame Kibspoko Germaine KUILA, Mle 258 155 A, Conseiller d’éducation féminine",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Solidarité, de l’action humanitaire, de la réconciliation nationale, du genre et de la famille : - Monsieur Karim ZINA, Mle 51 706 J, Administrateur des affaires sociales",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Solidarité, de l’action humanitaire, de la réconciliation nationale, du genre et de la famille : - Monsieur Ollé KAM, Mle 51 713 L, Inspecteur de l’éducation des jeunes enfants",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la Sécurité : - Monsieur Apollinaire KAFANDO, Mle 308 627 R, Commissaire principal de police, en remplacement de Monsieur Ardjouma KARAMA",1,exact,SECURITE,Ministère de la Sécurité
+"ministère de la Sécurité : - Monsieur Salfo BAMBARA, Officier",1,exact,SECURITE,Ministère de la Sécurité
+ministère de la défense nationale et des anciens combattants,1,exact,DEFENSE,Ministère de la Guerre et de la Défense patriotique
+"ministère de la femme, de la solidarité nationale et de la famille",1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de la jeunesse, de la formation et de l'insertion professionnelle : - Monsieur Moumouni LINGANI, Mle 43 898 L, Inspecteur de l’enseignement secondaire",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère de la jeunesse, de la formation professionnelle et de l’emploi,",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+ministère de l’Action humanitaire et de la solidarité,1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+ministère de l’Action sociale et de la solidarité nationale,1,exact,FAMILLE_SOLIDARITE,Ministère de la Famille et de la Solidarité
+"ministère de l’Administration territoriale et de la décentralisation : - Monsieur Idrissa BARRY, Mle 212 177 V, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale et de la décentralisation : - Monsieur Sy Joseph TRAORE, Mle 212 137 N, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+ministère de l’Administration territoriale et de la décentration,1,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale et de la décentration : - Monsieur Halhassane SINARE, Mle 41 154 C, Juriste",1,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale et de la mobilité : - Monsieur Mahamadou BA, Mle 37 106 X, Conseiller en sciences et techniques de l’information et de la communication",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale et de la mobilité : - Monsieur Panongbnéyon Pierre Emmanuel OUEDRAOGO, Mle 41 017 H, Professeur certifié",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale et de la mobilité : - Monsieur Windpanga Pierre Marie Honoré NABALOUM, Mle 238 049 Z, Conseiller en gestion des ressources humaines et management des administrations",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+ministère de l’Administration territoriale et la décentralisation,1,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la cohésion sociale : - Monsieur François de Sales Charlemagne NAMA, Mle 28 142 D, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la cohésion sociale : - Monsieur Sibiri COULIBALY, Colonel-major",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur Debié BADO, Mle 59 705 P, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur Ernest KI, Mle 227 569 D, Commissaire principal de police",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur François de Salles Charlemagne NAMA, Mle 28 142 D, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur Jean-Pierre VOGNA, Mle 98 021 K, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur Jéano NADEMBEGA, Mle 283 353 T, Commissaire principal de police",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur Saïdou ZETIYENGA, Mle 69 206 W, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité : - Monsieur Sibiri de Issa OUEDRAOGO, Mle 23 593 L, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère de l’Administration territoriale, de la décentralisation et de la sécurité intérieure : - Madame Jacqueline Mélanie Béatrice NARE/SOMA, Mle 59 758 S, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+ministère de l’Agriculture et de l’aménagement hydraulique,1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture et des aménagements hydrauliques : - Madame Marceline NEYA/KANYALA, Mle 25 567 H, Conseiller Formateur des jeunes agriculteurs (FJA)",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture et des aménagements hydrauliques : - Madame Ramata SAKANDE/DRABO, Mle 59 689 S, Conseiller en gestion des ressources humaines",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture et des aménagements hydro-agricoles : - Madame Kanlieyama Adeline BELEM/OUOBA, Mle 24 180 M, Ingénieur Agro-économiste",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture et des aménagements hydro-agricoles : - Monsieur Aly ROMBA, Mle 91 944 G, Administrateur civil",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture et des aménagements hydro-agricoles : - Monsieur Dieudonné OUEDRAOGO, Mle 25 611 L, Ingénieur agronome",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture et des aménagements hydro-agricoles : - Monsieur Oumarou SAWADOGO, Mle 33 774 K, Ingénieur du développement rural",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des aménagements hydro-agricoles et de la mécanisation : - Madame Mamounata BELEM/OUEDRAOGO, Mle 218 396 R, Maître de recherche",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des aménagements hydro-agricoles et de la mécanisation : - Monsieur Adama TOURE, Mle 91 970 R, Conseiller des affaires économiques",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des aménagements hydro-agricoles et de la mécanisation : - Monsieur Boukary SAWADOGO, Mle 33 822, Ingénieur socio-économiste",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des aménagements hydro-agricoles et de la mécanisation au Conseil d’orientation et de contrôle de l’Agence nationale de la météorologie (ANAM) pour un premier mandat de trois (03) ans",1,prefixe,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques - Monsieur Moussa Poulmawendé ZIDA, Mle 118 318 Z, Ingénieur d’agriculture, en remplacement de Monsieur Dométierké John Herman HIEN",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Madame Dabou TRAORE, Mle 47 685 F, Administrateur des services financiers, en remplacement de Monsieur Issa SAWADOGO",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Monsieur Adama SANKARA, Mle 118 353 X, Conseiller d’agriculture",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Monsieur Adama SANKARA, Mle 118 353 X, Conseiller en agriculture",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Monsieur Koudougou KABORE, Mle 118 985 J, Conseiller en gestion des ressources humaines",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Monsieur Oumarou SAWADOGO, Mle 33 774 K, Ingénieur du développement rural (agronomie)",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques : - Monsieur Zoubéré TINTO, Mle 97 535 N, Ingénieur d’élevage et de santé animale, en remplacement de Madame Sidpayété Roseline Thérèse NANA, appelée à d’autres fonctions",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources animales et halieutiques, au Conseil d’orientation et de contrôle (COC) de l’Agence nationale de la météorologie (ANAM) pour une dernière période de trois (03) ans",1,prefixe,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Agriculture, des ressources hydrauliques, de l’assainissement et de la sécurité alimentaire : - Monsieur Pascal ZONGO, Mle 24 164 G, Ingénieur agronome",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+ministère de l’Eau et de l’Assainissement,1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Eau et de l’assainissement, Présidente du Conseil d’administration de l’Agence d’exécution des travaux eau et équipement rural (AGETEER) pour un premier mandat de trois (03) ans",1,prefixe,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Economie et des finances : - Monsieur Amidou BARRO, Mle 58 433 Z, Administrateur des services financiers",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Antoine Marie Gilbert GOUEM, Mle 56 733 C, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Brahima OUATTARA, Mle 34 826 H, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Daniel HIEN, Mle 49 071 Y, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Koudaogo Ulrich Richemond NITIEMA, Mle 104 870 A, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Maboudou KEKELE, Mle 46 224 Y, Inspecteur du Trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Maboudou KEKELE, Mle 46 224 Y, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie et des finances : - Monsieur Reguema Alexandre BONKOUNGOU, Mle 49 101 F, Administrateur des services financiers",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+ministère de l’Economie et des finances au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour une dernière période de trois (03) ans,1,prefixe,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des Finances et de la prospective",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Madame Agnès DAHO/COMPAORE, Mle 225 082 B, Administrateur des services financiers",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Madame Irène KABRE/BOUGOUMA, Mle 54 643 G, Administrateur des services financiers, en remplacement de Madame Alimatou ZONGO/KABORE",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Ibrahim OUATTARA, Mle 225 034 D, Inspecteur des impôts, en remplacement de Monsieur Souleymane OUEDRAOGO",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Madi BOUNDAOGO, Mle 208 045 R, Administrateur des services financiers, en remplacement de Monsieur Norbert KABORE",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Mayel DABIRE, Mle 49 078 N, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et de la prospective : - Monsieur Siaka PARE, Mle 111 144 R, Administrateur des services financiers, en remplacement de Monsieur Médard Hippolyte KIENDREBEOGO",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du changement",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Madame Donbeyitwor Jeanne Marie Raïssa YAMEOGO/DABIRE, Mle 96 931 G, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Madame Valérie ZERBO/SAWADOGO, Mle 111 096 F, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Achille KI, Mle 46 271 U, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Boukaré ZOUANGA, Mle 56 723 S, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Bourahima TARNABDA, Mle 51 210 R, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Dima Noaga Salifou DOLLE, Mle 111 124 U, Administrateur des services financiers",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Euloge Noaga WEDRAOGO, Mle 40 199 E, Conseiller d’intendance scolaire et universitaire",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Fernand OUEDRAOGO, Mle 19 732 E, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Issa YONABA, Mle 46 226 T, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Jacques KABORE, Mle 51 204 W, Inspecteur du Trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Mahama OUEDRAOGO, Mle 59 667 E, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Mamadou SERE, Mle 36 652 W, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Ousmane SIDIBE, Mle 208 081 P, Administrateur des services financiers",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Pascal Ildevert OUEDRAOGO, Mle 39 689 N, Inspecteur des impôts",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Saniteon Julien SOMDA, Mle 118 989 K, Conseiller en gestion des ressources humaines",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Seydou BARRO, Mle 43 129 A, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : - Monsieur Zacharie TOE, Mle 24 930 P, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement : Madame Aïssata SANE/CONGO, Mle 30 837 W, Ingénieur statisticien économiste. Au titre du ministère des Affaires étrangères, de la coopération et des burkinabè de l’extérieur : Monsieur Pamoussa Zackaria KONSIMBO, Mle 97 438 C, Conseiller des affaires étrangères. B. MINISTERE DE L’ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE SCIENTIFIQUE ET DE L’INNOVATION",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Economie, des finances et du développement: Monsieur Maboudou KEKELE, Mle 46 224 Y, Inspecteur du trésor",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’Education nationale et de l’alphabétisation : - Monsieur Constant SAWADOGO, Mle 22 757 T, Inspecteur de l’enseignement secondaire",1,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"ministère de l’Education nationale, de l’alphabétisation et de la promotion des langues nationales : - Madame Pamagni Delphine BITIE, Mle 233 757 N, Informaticien",1,exact,EDUCATION_BASE,"Ministère de l'Enseignement de base, de l'Alphabétisation et de la Promotion des langues nationales"
+"ministère de l’Energie : - Monsieur Bruno KORGO, Mle 231 924 H, Enseignant chercheur",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+ministère de l’Energie des mines et des carrières,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières : - Madame Madiara SAGNON/TOU, Mle 52 151 G, Administrateur des services financiers",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières : - Monsieur Laurent Wendinmi KABRE, Mle 241 883 P, Ingénieur de conception en géologie et mines",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières : - Monsieur Ousmane BARBARI, Mle 119 042 E, Economiste- gestionnaire",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières Madame Sétou COMPAORE, Mle 130 357 R, Magistrat. Au titre du ministère de l’Economie, des finances et du développement Monsieur Hamidou SAWADOGO, Mle 54 620 H, Conseiller en gestion des ressources humaines. E. MINISTERE DU COMMERCE, DE L’INDUSTRIE ET DE L’ARTISANAT",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières du Conseil d’administration de la Société Nantou Mining SA, pour un premier mandat de trois (03) ans",1,prefixe,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières,",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Energie, des mines et des carrières, de la Société Konkera SA, pour un premier mandat de trois (03) ans",1,prefixe,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Madame Estelle Noëla Hoho YOUL, Mle 216 336 C, Professeur titulaire hospitalo-universitaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Madame Salimata KOUAME/TRAORE, Mle 245 755 S, Maître de conférences agrégé",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Antoine BERE, Mle 59 229 S, Professeur titulaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Augustin PALE, Mle 110 907 K, Maître de Conférences",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Bazoumana KOULIBALY, Mle 110 941 C, Maître de recherche",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Gérard COULIBALY, Mle 53 692 Z, Professeur titulaire hospitalo-universitaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Mahamadou SAWADOGO, Mle 78 122 C, Professeur titulaire en génétique et amélioration des plantes",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Mipro HIEN, Mle 59 238 B, Enseignant-chercheur",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Oumarou OUEDRAOGO, Mle 215 008 U, Professeur titulaire, en remplacement de Monsieur Aly SAVADOGO",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Ousséni ILLY, Mle 241 749 J, Maître de conférences agrégé",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Ousséni SO, Mle 104 532 V, Professeur titulaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Pon Jean-Baptiste COULIBALY, Mle 241 848 S, Enseignant- chercheur",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Potiandi Serge DIAGBOUGA, Mle 41 639 C, Directeur de recherche",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Potiandi Serge DIAGBOUGA, Mle 41 639 G, Directeur de recherche",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Salfo OUEDRAOGO, Mle 216 017 Y, Maître de recherche",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Sébastien YOUGBARE, Mle 231 915 F, Professeur titulaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche et de l’innovation : - Monsieur Teyouré Benoît Joseph BATIENO, Mle 258 306 Z, Maître de recherche",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’Innovation",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation - Monsieur Gervais Marie Augustin LOADA, Mle 00 44 095 G, Professeur titulaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Madame Bintou SESSOUMA, Mle 59 240 P, Maître de Conférences",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Adjima THIOMBIANO, Mle 49 402 N, Enseignant-Chercheur",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Aly SAVADOGO, Mle 110 923 A, Professeur titulaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Antoine BERE, Mle 59 229 S, Enseignant universitaire",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Emmanuel NANEMA, Mle 49 129 U, Maître de recherche",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Georges YAMEOGO, Mle 18 531 F, Maître de recherche en agroforesterie",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Kamba André-Marie SOUBEIGA, Mle 41 179 U, Professeur des universités",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Mahamadou SAWADOGO, Mle 78 122 C, Enseignant-chercheur",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Mipro HIEN, Mle 59 238 B, Maître de conférences",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Olivier GNANKINE, Mle 110 925 Y, Maître de conférence",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Oumar TRAORE, Mle 59 244 F, Professeur",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+"ministère de l’Enseignement supérieur, de la recherche scientifique et de l’innovation : - Monsieur Ousmane BOUGOUMA, Mle 257 406 J, Maître assistant",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+ministère de l’Environnement et du développement durable,1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’Economie verte et du changement climatique",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’eau et de l’assainissement : - Monsieur Abdoul Karim NEBIE, Mle 228 619 G, Inspecteur des eaux et forêts",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’eau et de l’assainissement : - Monsieur Fokoiré Félix IBRANGO, Mle 293 385 M, Inspecteur de l’environnement",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’eau et de l’assainissement : - Monsieur Laurent WOBA, Mle 59 056 U, Inspecteur des eaux et forêts, en remplacement de Monsieur Marou Lazare OUEDRAOGO",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’économie verte changement climatique",1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’économie verte et du changement climatique : - Monsieur Benoit DOAMBA, Mle 29 243 Z, Inspecteur des eaux et forêts",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’économie verte et du changement climatique : - Monsieur Benoît DOAMBA, Mle 29 243 Z, Inspecteur des Eaux et Forêts",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’économie verte et du changement climatique : - Monsieur Ibrahim LANKOANDE, Mle 26 628 L, Inspecteur des eaux et forêts",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère de l’Environnement, de l’économique verte et du changement climatique",1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+ministère de l’Habitat et du l’urbanisme,1,typo_probable,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Industrie, du Commerce et de l’artisanat",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat - Monsieur Marcel SINKA, Mle 25 123 Y, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Madame Managawendé Safiata BOUDA/OUEDRAOGO, Mle 345 075 G, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Bakari MILLOGO, Mle 212 306 Z, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Boureima OUEDRAOGO, Mle 208 063 S, Administrateur des services financiers",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Djiswéné Roger RAMDE, Mle 343 473 H, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Lévin Médard SIB, Mle 200 578 T, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Mahamoudou ROUAMBA, Mle 212 625 L, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Souleymane OUEDRAOGO, Mle 506 290 T, Statisticien-économiste",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat : - Monsieur Wilfrid Aimé Guillaume Sidbéwindé YAMEOGO, Mle 27 764 N, Juriste",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat au Conseil de gestion de l’Agence de financement et de promotion des Petites et moyennes entreprises (AFP-PME) en remplacement de",1,prefixe,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère de l’Industrie, du commerce et de l’artisanat au Conseil de gestion de l’Agence de financement et de promotion des Petites et moyennes entreprises (AFP-PME) en remplacement de Monsieur Mambila BANCE dont elle termine",1,prefixe,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+ministère de l’Urbanisme et de l’Habitat,1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme et de l’habitat : - Monsieur Abdoul Azisse OUEDRAOGO, Mle 34 048 X, Inspecteur des Impôts",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme et de l’habitat : - Monsieur Salifou KABORE, Mle 24 633 D, Ingénieur géomètre",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme et de l’habitat : - Monsieur Sami MIDIOUR, Mle 078 P, Cartographe",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme et de l’habitat : - Monsieur Yacouba SIKO, Mle 75 908 M, Géographe planificateur urbaniste",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme et de l’habitat : - Monsieur Yacouba SIKO, Mle 75 908 M, Géographe-planificateur-urbaniste",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme, de l’habitat et de la ville : - Monsieur Yacouba SIKO, Mle 75 908 M, Géographe",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Urbanisme, des affaires foncières et de l’habitat : - Monsieur Moctar SAWADOGO, Mle 205 533 Y, Ingénieur en génie civil",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’enseignement supérieur, de la recherche scientifique et de l’innovation - Madame Chantal Yvette ZOUNGRANA/KABORE, Mle 17 972 X, Professeur titulaire des Universités, pour un premier mandat de trois (03) ans",1,exact,ENSEIGNEMENT_SUP_RECHERCHE,"Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation"
+ministère de l’urbanisme et de l’habitat,1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère de l’Économie, des finances et du développement",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+ministère de l’économie des finances et du développement,1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’économie, des finances et du développement - Monsieur Wendlamita Paténéma Eric OUEDRAOGO, Mle 206 518 W, Ingénieur de conception en informatique",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère de l’économie, des finances et du développement : - Monsieur Marcelin NANEMA, Mle 59 644 R, Administrateur des services financiers",1,exact,ECONOMIE_FINANCES,Ministère de l'Économie et des Finances
+"ministère des Affaires étrangères et de la coopération : - Monsieur Sylvain Yamtiguimda YAMEOGO, Mle 104 400 P, Conseiller des affaires étrangères",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères et de la coopération régionale : - Monsieur Kounbèyaolè Francis HIEN, Mle 59 733 Z, Conseiller des affaires étrangères",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération et des Burkinabè de l’extérieur - Monsieur Iliassa ROUAMBA, Mle 212 418 F, Conseiller en gestion des ressources humaines",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération et des burkinabè de l’extérieur : - Monsieur Kiswensida Aristide KABRE, Mle 208 202 Y, Conseiller des affaires étrangères, en remplacement de Madame Mireille SAM/BICABA",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération régionale et des Burkinabè de l’extérieur : - Monsieur Issa BORO, Mle 92 317 N, Ministre Plénipotentiaire, en remplacement de Monsieur Saïdou ZONGO",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération régionale et des Burkinabè de l’extérieur : - Monsieur Ousmane BA, Mle 104 406 S, Ministre plénipotentiaire",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération régionale et des Burkinabè de l’extérieur, au Conseil d’orientation et de contrôle (COC) de l’Agence nationale de la météorologie (ANAM), en remplacement de Monsieur Assane TAMBOURA dont il achève",1,prefixe,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération régionale et des Burkinabè de l’extérieur, au Conseil d’orientation et de contrôle (COC) de l’Agence nationale de la météorologie (ANAM), en remplacement de Monsieur Assane TAMBOURA dont il achève le mandat. Le second décret porte renouvellement du mandat de Monsieur Prosper ZEMBA, Mle 116 887 G, Ingénieur d’Agriculture, Administrateur représentant l’Etat, au titre du ministère de l’Agriculture, des ressources animales et halieutiques, au Conseil d’orientation et de contrôle (COC) de l’Agence nationale de la météorologie (ANAM) pour une dernière période de trois (03) ans. B. MINISTERE DE L’ENSEIGNEMENT SECONDAIRE, DE LA FORMATION PROFESSIONNELLE ET TECHNIQUE",1,prefixe,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération, de l’intégration africaine et des Burkinabè de l’extérieur : - Madame Sabine BAKYONO/KANZIE, Mle 59 726 X, Conseiller des affaires étrangères, en remplacement de Monsieur Passida Pascal GOUBA",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération, de l’intégration africaine et des Burkinabè de l’extérieur : - Monsieur Dominique KABORE, Mle 97 446 B, Conseiller des affaires étrangères",1,exact,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Affaires étrangères, de la coopération, de l’intégration africaine et des Burkinabè de l’extérieur, au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans",1,prefixe,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+"ministère des Enseignements secondaire et supérieur, - Monsieur Issaka LANKOANDE, Mle 17 970 R, Ingénieur en génie civil",1,exact,ENSEIGNEMENT_SECONDAIRE_FORMATION,Ministère de l'Enseignement secondaire et de la Formation professionnelle et technique
+"ministère des Infrastructures : - Madame Aïcha Hafçatou NABARE, Mle 216 123 K, Ingénieur en génie civil en remplacement de Monsieur Alassane TRAORE",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère des Infrastructures : - Monsieur Naba DABIRE, Mle 25 782 C, Administrateur des services financiers",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère des Infrastructures et du désenclavement : - Madame Garmien Clarisse HEMA/SOULAMA, Mle 102 943 F, Conseiller en sciences et techniques de l’information et de la communication",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère des Infrastructures et du désenclavement : - Monsieur Evariste Bonaventure DIASSO, Mle 55 563 W, Inspecteur du trésor, en remplacement de Monsieur Dié Laurent Saturnin MILLOGO",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère des Mines et des carrières - Monsieur Abdoulaye SAMBARE, Mle 207 636 N, Ingénieur des travaux de la géologie et des mines",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère des Mines et des carrières - Monsieur Athanase BOUDA, Mle 104 686 E, Ingénieur des mines",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+ministère des Mines et des carrières pour un premier mandat de trois (03) ans,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+ministère des Ressources animale et halieutiques,1,typo_probable,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Ressources animales : - Monsieur Yamba KABORE, Mle 26 914 V, Ingénieur d’élevage",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Ressources animales et halieutiques : - Madame Lamouni Habibata OUERMI/ZERBO, Mle 241 896 J, Docteur vétérinaire",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Ressources animales et halieutiques : - Monsieur Djibril SANOGO, Mle 33 742 A, Ingénieur d’élevage, option Zootechnie",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Ressources animales et halieutiques : - Monsieur Joseph SAVADOGO, Mle 52 118 D, Docteur vétérinaire",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Ressources animales et halieutiques : - Monsieur Zafianou YARO, Mle 87 302 N, Ingénieur d’élevage",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Ressources animales et halieutiques Monsieur Mamadou PARE, Mle 26 903 V, Vétérinaire. Au titre du ministère du Commerce, de l’industrie et de l’artisanat Monsieur Abdoulkadri KOURA, Mle 36 412 N, Economiste. Au titre du ministère de la Fonction publique, du travail et de la protection sociale Monsieur Mahamadou NIAMPA, Mle 43 706 T, Conseiller en gestion des ressources humaines. Administrateurs représentant les autres structures et institutions Au titre du Centre national de la recherche scientifique et technologique Monsieur Relwindé Auguste Maxime COMPAORE, Mle 0046 923 V, Maître de recherche en histoire. Au titre des syndicats des enseignants Monsieur Seydou OUERDRAOGO, Mle 84 853, Enseignant. C. MINISTERE DE LA SANTE",1,exact,AGRI_EAU_RAH,"Ministère de l'Agriculture, de l'Eau, des Ressources animales et halieutiques"
+"ministère des Sports et des loisirs - Monsieur Rasmané SAWADOGO, Mle 34 298 U, Professeur certifié d’Education physique et sportive",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Sports et des loisirs - Monsieur Sylvain Wendemmi OUEDRAOGO, Mle 208 071 A, Administrateur des services financier",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Sports, de la jeunesse et de l’emploi : - Madame Laurencia NAPON/SANOU, Mle 117 344 B, Conseiller de jeunesse et d’éducation permanente",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Sports, de la jeunesse et de l’emploi : - Monsieur Abdel Kader BA, Mle 212 365 D, Conseiller en emploi et en formation professionnelle, en remplacement de Monsieur Ali TONANE",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Sports, de la jeunesse et de l’emploi : - Monsieur Idrissa TRAORE, Mle 117 343 M, Conseiller de jeunesse et d’éducation permanente",1,exact,SPORTS_JEUNESSE_EMPLOI,"Ministère des Sports, de la Jeunesse et de l'Emploi"
+"ministère des Transports, de la mobilité et de la sécurité routière",1,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière : - Monsieur Jean Claude ZONGO, Mle 25 764 H, Administrateur des services financiers",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière : - Monsieur Lucien BASSOLE, Mle 59 775 R, Administrateur civil",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière : - Monsieur Mamadou CISSE, Mle 77 039 R, Conseiller d’administration scolaire et universitaire",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière : - Monsieur Mamadou OUATTARA, Mle 52 178 U, Inspecteur du trésor",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de la météorologie (ANAM) pour un premier mandat de trois (03) ans, en remplacement de Monsieur Jean Gabriel SERE. Le quatrième décret nomme Monsieur Mathias TIAHO, Mle 235 929 L, Inspecteur du trésor, Président du Conseil d’orientation et de contrôle de l’Agence nationale de la météorologie (ANAM) pour un premier mandat de trois (03) ans. C. MINISTERE DE L’URBANISME, DE L’HABITAT ET DE LA VILLE",1,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans",1,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière au Conseil d’orientation et de contrôle de l’Agence nationale de l’aviation civile (ANAC) pour un premier mandat de trois (03) ans en remplacement de Monsieur Ignace DIESSONGO dont elle achève",1,prefixe,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des Transports, de la mobilité urbaine et de la sécurité routière, pour un premier mandat de trois (03) ans en remplacement de Monsieur Issiaka SIGUE. Le second décret nomme Monsieur Jean Claude ZONGO, Mle 25 764 H, Administrateur des services financiers, Président du Conseil d’administration de l’Office national de la sécurité routière (ONASER) pour un premier mandat de trois (03) ans. E. MINISTERE DE L’URBANISME ET DE L’HABITAT",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère des affaires étrangère, de la coopération et des burkinabè de l’extérieur",1,typo_probable,AFFAIRES_ETRANGERES,Ministère des Affaires étrangères
+ministère des infrastructures,1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+"ministère des infrastructures : - Monsieur Dié Laurent Saturnin MILLOGO, Mle 118 986 Y, Conseiller en gestion des ressources humaines",1,exact,CONSTRUCTION_PATRIE,Ministère de la Construction de la Patrie
+ministère des mines et de l’Energie,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+ministère des mines et des carrières,1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère des mines et des carrières,",1,exact,ENERGIE_MINES_CARRIERES,"Ministère de l'Énergie, des Mines et des Carrières"
+"ministère des transports, de la mobilité urbaine et de la sécurité routière - Monsieur Jean Victorien TOE, Mle 130 331 T, Magistrat",1,exact,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+"ministère du Commerce, de l’Industrie et de l’Artisanat",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat - Madame Mariam TRAORE/OUEDRAOGO, Mle 224 676 N, Economiste",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat : - Monsieur Hadi Honoré YONLI, Mle 97 521 K, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat : - Monsieur Hadi Honoré YONLY, Mle 97 521 K, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat : - Monsieur Kiswendsida Honoré KIETYETA, Mle 33 30 P, Gestionnaire financier",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat : - Monsieur Paul PACMAGDA, Mle 119 823 G, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat Président du Conseil d’administration de la société DAFANI-SA, pour un premier mandat de trois (03) ans",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat, Président du Conseil d’administration de la Minoterie du Faso (MINOFA) pour une dernière période de trois (03) ans",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Commerce, de l’industrie et de l’artisanat, Président du Conseil d’administration de la Société burkinabè des fibres textiles pour un premier mandat de trois (03) ans",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Développement de l’économie numérique et des postes : - Monsieur Abdoul Malick TRAORE, Mle 03 712 N, Informaticien",1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère du Développement de l’économie numérique et des postes : - Monsieur Abdoulaye KONDE, Mle 130 468 Z, Magistrat",1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère du Développement de l’économie numérique et des postes Monsieur Abdoulaye OUEDRAOGO, Mle 04 015 T, Juriste",1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère du Développement industriel, du commerce et des petites et moyennes entreprises",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Développement industriel, du commerce, de l’artisanat et des petites et moyennes entreprises : - Madame Clarisse Eléonore KYELEM, Mle ME 00 052 004 F (Mle MEBF), Economiste gestionnaire",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Développement industriel, du commerce, de l’artisanat et des petites et moyennes entreprises : - Monsieur Oumarou BARRO, Mle 212 299 B, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Développement industriel, du commerce, de l’artisanat et des petites et moyennes entreprises : - Monsieur Seydou ILBOUDO, Mle 119 818 S, Conseiller des affaires économiques, en remplacement de Monsieur Jean Pierre GUINKO",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du Développement industriel, du commerce, de l’artisanat et des petites et moyennes entreprises : - Monsieur Sy Adama TRAORE, Mle 280 443 U, Conseiller des affaires économiques",1,exact,INDUSTRIE_COMMERCE_ARTISANAT,"Ministère de l'Industrie, du Commerce et de l'Artisanat"
+"ministère du de l’Administration territoriale, de la décentralisation et de la sécurité intérieure Monsieur Roland Wambi ZONGO, Mle 111 498 C, Commissaire de police. Au titre du ministère de la Santé Monsieur Lamoussa Robert ZOMA, Mle 373 7072 W, Démographe. Au titre du ministère du Développement de l’économie numérique et des postes Monsieur Abdoulaye OUEDRAOGO, Mle 04 015 T, Juriste. Le neuvième décret nomme Monsieur Allassani OUEDRAOGO, Mle 49 516 E, Ingénieur de conception informatique, Président du Conseil du Service universel des communications électroniques (CSU). G. MINISTERE DE LA JEUNESSE, DE LA FORMATION ET DE L’INSERTION PROFESSIONNELLE",1,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+ministère du développement de l’Economie numérique et des postes,1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+ministère du développement de l’économie numérique et des postes,1,exact,TRANSITION_DIGITALE,"Ministère de la Transition digitale, des Postes et des Communications électroniques"
+"ministère l’Administration territoriale, de la décentralisation et de la sécurité intérieure",1,typo_probable,ADMIN_MOBILITE,Ministère de l'Administration territoriale et de la Mobilité
+organisations de la société civile,1,hors_ministere,,
+organisations féminines,1,hors_ministere,,
+organisations internationales de volontariat,1,hors_ministere,,
+organisations paysannes,1,hors_ministere,,
+organisations professionnelles de l’économie informelle,1,hors_ministere,,
+organisations syndicales de travailleurs,1,hors_ministere,,
+organismes de radiodiffusion,1,hors_ministere,,
+"personnel Administratif, technique, ouvrier et de soutien",1,hors_ministere,,
+personnel administratif,1,hors_ministere,,
+"personnel administratif, technique, ouvrier et de soutien de l’Université Nazi BONI",1,hors_ministere,,
+personnel de la CARFO,1,hors_ministere,,
+personnel de la Caisse nationale d’assurance maladie universelle,1,hors_ministere,,
+personnel de la Maison de la culture de Bobo,1,hors_ministere,,
+personnel de la Radiodiffusion télévision du Burkina (RTB),1,hors_ministere,,
+personnel de la Société,1,hors_ministere,,
+personnel de l’Agence burkinabè des investissements (ABI),1,hors_ministere,,
+personnel de l’Agence de l’Eau du Gourma,1,hors_ministere,,
+personnel de l’Agence de l’Eau du Mouhoun,1,hors_ministere,,
+personnel de l’Agence de l’eau des Cascades,1,hors_ministere,,
+personnel de l’Agence de l’eau du Liptako,1,hors_ministere,,
+personnel de l’Agence nationale de promotion des technologies de l’information et de la communication (ANPTIC),1,hors_ministere,,
+personnel de l’Agence nationale des énergies renouvelables et de l’efficacité énergétique (ANEREE),1,hors_ministere,,
+personnel de l’Agence pour la promotion des exportations du Burkina (APEX-Burkina),1,hors_ministere,,
+personnel de l’Autorité de mise en valeur du Sourou,1,hors_ministere,,
+personnel de l’ENAM,1,hors_ministere,,
+personnel de l’END,1,hors_ministere,,
+personnel de l’Ecole nationale des régies financières,1,hors_ministere,,
+personnel de l’Institut supérieur de l’image et du son/Studio école,1,hors_ministere,,
+personnel de l’OST,1,hors_ministere,,
+personnel de l’Office de gestion des infrastructures sportives (OGIS),1,hors_ministere,,
+personnel de l’Office national de sécurisation des sites miniers,1,hors_ministere,,
+personnel de l’office,1,hors_ministere,,
+personnel du Bureau burkinabè du droit d’auteur,1,hors_ministere,,
+personnel du CNRST,1,hors_ministere,,
+personnel du Centre agricole polyvalent de Matourkou,1,hors_ministere,,
+personnel du Centre de gestion des cités,1,hors_ministere,,
+personnel du FAFPA,1,hors_ministere,,
+personnel du FODEL,1,hors_ministere,,
+personnel du Fonds d’appui au secteur informel,1,hors_ministere,,
+personnel du Fonds d’appui à la presse privée,1,hors_ministere,,
+personnel du Fonds d’assistance judiciaire,1,hors_ministere,,
+personnel du Fonds permanent pour le développement des collectivités territoriales (FPDCT),1,hors_ministere,,
+personnel du GIP-PNVB,1,hors_ministere,,
+personnel du Salon international de l’artisanat de Ouagadougou,1,hors_ministere,,
+personnel du Salon international de l’artisanat de Ouagadougou (SIAO),1,hors_ministere,,
+personnel enseignant,1,hors_ministere,,
+personnel formateur,1,hors_ministere,,
+premier ministère,1,hors_ministere,,
+producteurs de phonogrammes,1,hors_ministere,,
+représentant des travailleurs,1,hors_ministere,,
+représentant du personnel de l’Ecole nationale des eaux et forêts,1,hors_ministere,,
+représentants de la commune de Ouagadougou,1,hors_ministere,,
+représentants de l’interprofession de la filière aviculture traditionnelle,1,hors_ministere,,
+représentants des artistes,1,hors_ministere,,
+représentants des artistes interprètes et/ou exécutants,1,hors_ministere,,
+représentants des arts visuels,1,hors_ministere,,
+représentants des auteurs compositeurs d’œuvres musicales,1,hors_ministere,,
+représentants des auteurs d’œuvres audiovisuelles,1,hors_ministere,,
+représentants des distributeurs,1,hors_ministere,,
+représentants des journalistes culturels,1,hors_ministere,,
+représentants des transporteurs et conducteurs routiers du Burkina,1,hors_ministere,,
+représentants des travailleurs du secteur de l’éducation de base,1,hors_ministere,,
+représentants des éditeurs littéraires,1,hors_ministere,,
+représentants des élèves et étudiants,1,hors_ministere,,
+représentants du personnel de l’établissement,1,hors_ministere,,
+représentants d’éditeurs de musique,1,hors_ministere,,
+secteur privé,1,hors_ministere,,
+société civile,1,hors_ministere,,
+structures en charge des allocations des étudiants,1,hors_ministere,,
+structures sanitaires privées,1,hors_ministere,,
+travailleurs de l’Ecole de formation et de perfectionnement des travaux publics (EFP-TP),1,hors_ministere,,
+travailleurs du CEFPO,1,hors_ministere,,
+tutelle financière,1,hors_ministere,,
+élèves,1,hors_ministere,,
+élèves et auditeurs,1,hors_ministere,,
+élèves stagiaires,1,hors_ministere,,
+élèves-professeurs de l’IDS,1,hors_ministere,,
+étudiants de l’Institut supérieur de l’image et du son/Studio école,1,hors_ministere,,

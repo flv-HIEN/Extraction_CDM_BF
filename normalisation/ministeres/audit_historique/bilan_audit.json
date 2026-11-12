@@ -1,0 +1,157 @@
+{
+  "source": "normalisation/fiabilisation/nominations_2015_2025_fiabilise.csv",
+  "sha256": "7a1019a177321bad6ca23fde10ba025ef643f81d96cc0becef419b39632230df",
+  "lignes_source": 23183,
+  "lignes_analyse": 23183,
+  "libelles_uniques": 1194,
+  "lignes_signalees": 2032,
+  "libelles_signales": 762,
+  "classes": {
+    "ministere_apparent_a_verifier": 21151,
+    "institution_non_ministerielle_apparente": 1056,
+    "titre_contamine_probable": 454,
+    "libelle_ambigu_a_verifier": 287,
+    "categorie_representation_probable": 235
+  },
+  "annuel": {
+    "2015": {
+      "lignes": 2610,
+      "libelles_uniques": 202,
+      "lignes_signalees": 253
+    },
+    "2016": {
+      "lignes": 2633,
+      "libelles_uniques": 204,
+      "lignes_signalees": 306
+    },
+    "2017": {
+      "lignes": 2160,
+      "libelles_uniques": 203,
+      "lignes_signalees": 267
+    },
+    "2018": {
+      "lignes": 2044,
+      "libelles_uniques": 186,
+      "lignes_signalees": 190
+    },
+    "2019": {
+      "lignes": 1769,
+      "libelles_uniques": 166,
+      "lignes_signalees": 198
+    },
+    "2020": {
+      "lignes": 1415,
+      "libelles_uniques": 115,
+      "lignes_signalees": 112
+    },
+    "2021": {
+      "lignes": 1874,
+      "libelles_uniques": 130,
+      "lignes_signalees": 144
+    },
+    "2022": {
+      "lignes": 1844,
+      "libelles_uniques": 167,
+      "lignes_signalees": 155
+    },
+    "2023": {
+      "lignes": 2296,
+      "libelles_uniques": 119,
+      "lignes_signalees": 145
+    },
+    "2024": {
+      "lignes": 2130,
+      "libelles_uniques": 112,
+      "lignes_signalees": 113
+    },
+    "2025": {
+      "lignes": 2408,
+      "libelles_uniques": 119,
+      "lignes_signalees": 149
+    }
+  },
+  "referentiel_lignes": 566,
+  "paires": 609,
+  "comparaison": [
+    {
+      "version": "archive",
+      "document_id": "CDM - 2015_01_27.pdf",
+      "nom": "Kayouré Idrissa IMMA dit Kisto Koinbré",
+      "page": "32",
+      "ministere": "Auteurs compositeurs d’œuvres musicales traditionnelles",
+      "categorie_representation": "",
+      "type_rattachement": "",
+      "rattachement_source": ""
+    },
+    {
+      "version": "archive",
+      "document_id": "CDM - 2015_01_27.pdf",
+      "nom": "Bali Bertrand BAZIE dit Bazbill",
+      "page": "34",
+      "ministere": "Artistes-interprètes ou exécutants",
+      "categorie_representation": "",
+      "type_rattachement": "",
+      "rattachement_source": ""
+    },
+    {
+      "version": "archive",
+      "document_id": "CDM - 2015_10_28.pdf",
+      "nom": "Moustapha KAFANDO",
+      "page": "20",
+      "ministere": "Personnel de l’Office national d’identification",
+      "categorie_representation": "",
+      "type_rattachement": "",
+      "rattachement_source": ""
+    },
+    {
+      "version": "archive",
+      "document_id": "CDM - 2015_10_28.pdf",
+      "nom": "Hassane OUEDRAOGO",
+      "page": "22",
+      "ministere": "étudiants",
+      "categorie_representation": "",
+      "type_rattachement": "",
+      "rattachement_source": ""
+    },
+    {
+      "version": "actuel",
+      "document_id": "CDM - 2015_01_27.pdf",
+      "nom": "Kayouré Idrissa IMMA dit Kisto Koinbré",
+      "page": "32",
+      "ministere": "ministère de la Communication, Chargé des relations avec",
+      "categorie_representation": "Auteurs compositeurs d’œuvres musicales traditionnelles",
+      "type_rattachement": "ministere",
+      "rattachement_source": "ministère de la Communication, Chargé des\nrelations avec"
+    },
+    {
+      "version": "actuel",
+      "document_id": "CDM - 2015_01_27.pdf",
+      "nom": "Bali Bertrand BAZIE dit Bazbill",
+      "page": "34",
+      "ministere": "ministère de la Culture et du tourisme",
+      "categorie_representation": "Artistes-interprètes ou exécutants",
+      "type_rattachement": "ministere",
+      "rattachement_source": "ministère de la Culture et du tourisme"
+    },
+    {
+      "version": "actuel",
+      "document_id": "CDM - 2015_10_28.pdf",
+      "nom": "Moustapha KAFANDO",
+      "page": "20",
+      "ministere": "Ministère de l’Economie et des finances",
+      "categorie_representation": "Personnel de l’Office national d’identification",
+      "type_rattachement": "ministere",
+      "rattachement_source": "Ministère de l’Economie et des finances"
+    },
+    {
+      "version": "actuel",
+      "document_id": "CDM - 2015_10_28.pdf",
+      "nom": "Hassane OUEDRAOGO",
+      "page": "22",
+      "ministere": "Ministère des Enseignements secondaire et supérieur",
+      "categorie_representation": "étudiants",
+      "type_rattachement": "ministere",
+      "rattachement_source": "Ministère des Enseignements secondaire et\nsupérieur"
+    }
+  ]
+}

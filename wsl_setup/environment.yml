@@ -1,0 +1,23 @@
+name: memoire_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - pyarrow
+  - numba
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - spacy==3.8.16
+      - PyPDF2==3.0.1
+      - pdfminer.six==20260107
+      - dateparser==1.4.2
+      - PyMuPDF
+      - pytesseract
+      - polars==1.44.0

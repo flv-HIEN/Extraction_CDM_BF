@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="fr">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Validation des nominations</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font:15px system-ui;color:#163330;background:#f1f5f4}header{padding:16px 22px;background:#173e36;color:white}h1{font-size:22px;margin:0 0 5px}header p{margin:0;color:#d1e2dc}.toolbar{padding:12px 20px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;background:white;border-bottom:1px solid #cad8d3}select,input,textarea,button{font:inherit;padding:8px;border:1px solid #a9beb5;border-radius:5px}button{cursor:pointer;background:#fff;color:#173e36}button.primary{background:#176549;color:white}button:disabled{opacity:.5;cursor:wait}a{color:#125d49}main{display:grid;grid-template-columns:1fr 1fr;height:calc(100vh - 210px);min-height:600px;gap:12px;padding:12px}section{background:white;border:1px solid #cad8d3;border-radius:8px;overflow:auto}.pdf{display:flex;flex-direction:column}iframe{width:100%;flex:1;min-height:450px;border:0}#sourceText{white-space:pre-wrap;overflow:auto;padding:18px;flex:1;margin:0}#details{padding:14px}.editor{display:grid;grid-template-columns:1fr 1fr;gap:10px}label{display:flex;flex-direction:column;gap:4px;font-size:13px}.wide{grid-column:1/-1}textarea{resize:vertical;min-height:65px}#rows{width:100%;height:160px}#notice{padding:8px 20px;min-height:36px;white-space:pre-wrap}#notice.error{background:#ffe5de;color:#8c2416}.hint{font-size:13px;color:#536b61}.review{border-top:1px solid #cad8d3;margin-top:16px;padding-top:12px}.review label.check{flex-direction:row;margin:10px 0;align-items:flex-start}#reviewer{width:100%}#status{font-size:13px}#page{width:70px}@media(max-width:950px){main{grid-template-columns:1fr;height:auto}.pdf{height:650px}}
+</style>
+<header><h1>Validation des nominations</h1><p id="campaign">Évaluation sur 30 PDF · Lire les rubriques entières, puis confirmer le document.</p></header>
+<div class="toolbar"><label>Compte rendu <select id="documents"></select></label><button id="reload">Recharger</button><span id="status"></span></div>
+<div id="notice" role="status" aria-live="polite">Chargement…</div>
+<main>
+<section class="pdf" aria-label="Document source">
+ <div class="toolbar"><label>Page <input id="page" type="number" min="1" value="1"></label><button id="go">Afficher</button><button id="toggle">Voir le texte extrait</button><a id="openPdf" target="_blank" rel="noopener">Ouvrir le PDF</a></div>
+ <iframe id="pdf" title="Page du compte rendu"></iframe><pre id="sourceText" hidden></pre>
+</section>
+<section id="details">
+ <p id="reason" class="hint"></p>
+ <label>Rechercher une personne ou une fonction<input id="search" type="search" placeholder="Nom, matricule, fonction…"></label>
+ <label>Annotations du document<select id="rows" size="6"></select></label>
+ <div class="toolbar"><button id="add">Ajouter une nomination</button><button id="delete">Supprimer cette ligne</button></div>
+ <div id="editor" class="editor"></div>
+ <p class="hint">Une information absente peut rester vide ; explique l’absence ou l’incertitude dans le commentaire. Les modifications restent dans le navigateur jusqu’à l’enregistrement.</p>
+ <button id="save" class="primary">Enregistrer le brouillon</button>
+ <div class="review">
+ <label>Nom ou initiales du relecteur<input id="reviewer" autocomplete="name"></label>
+ <label class="check"><input id="reviewed" type="checkbox">J’ai parcouru le document entier, vérifié toutes les rubriques de nominations, corrigé les champs, ajouté les annonces absentes et exclu les personnes remplacées, révocations et fins de fonctions. Si la liste est vide, je confirme l’absence de nomination.</label>
+ <button id="validate" class="primary">Valider tout le document</button>
+ <p class="hint">La validation ajoute les lignes à la référence vérifiée. Enregistrer ensuite un brouillon retire la validation de ce document. Une sauvegarde des fichiers précédents est créée à chaque enregistrement.</p>
+ </div>
+</section>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const labels={page:'Page de l’annonce',date_conseil:'Date de séance',type_nomination:'Type de nomination',civilite:'Civilité',nom:'Nom complet',matricule:'Matricule',fonction:'Fonction',ministere:'Ministère ou institution',extrait_exact:'Extrait source',commentaire:'Commentaire de vérification'};
+let current=null,selected=-1,token='',dirty=false,busy=false,textMode=false;
+function notice(message,error=false){$('notice').textContent=message;$('notice').className=error?'error':''}
+async function api(url,options){const r=await fetch(url,options);const data=await r.json();if(!r.ok)throw Error(data.error||'Erreur de communication');return data}
+function lock(value){busy=value;for(const id of ['documents','reload','save','validate','add','delete','rows'])$(id).disabled=value;for(const field of $('editor').querySelectorAll('input,textarea,select'))field.disabled=value;}
+function mark(){dirty=true;$('reviewed').checked=false;notice('Modifications non enregistrées.');}
+function showPage(){if(!current)return;const n=Math.max(1,Math.min(current.pages.length,Number($('page').value)||1));$('page').value=n;const url='/pdf?id='+encodeURIComponent(current.document.document_id);$('pdf').src=url+'#page='+n;$('openPdf').href=url+'#page='+n;$('sourceText').textContent=current.pages[n-1]||'Texte indisponible pour cette page.';}
+function list(){const query=$('search').value.toLocaleLowerCase();$('rows').replaceChildren();current.rows.forEach((r,i)=>{if(query&&!Object.values(r).join(' ').toLocaleLowerCase().includes(query))return;const option=document.createElement('option');option.value=i;option.textContent=`${i+1}. ${r.nom||'(nouvelle nomination)'} — p. ${r.page||'?'} — ${r.fonction||'fonction à préciser'}`;option.selected=i===selected;$('rows').append(option)});}
+function edit(index){selected=index;$('editor').replaceChildren();$('delete').disabled=index<0;if(index<0)return;const row=current.rows[index];for(const [key,title] of Object.entries(labels)){const label=document.createElement('label');label.textContent=title;if(['nom','fonction','ministere','extrait_exact','commentaire'].includes(key))label.className='wide';let field;if(key==='type_nomination'){field=document.createElement('select');for(const value of ['fonction_individuelle','conseil_administration','autre']){const o=document.createElement('option');o.value=value;o.textContent=value.replaceAll('_',' ');field.append(o)}}else{field=document.createElement(['extrait_exact','commentaire','fonction'].includes(key)?'textarea':'input');if(key==='page'){field.type='number';field.min=1;field.max=current.pages.length}if(key==='date_conseil')field.type='date'}field.value=row[key]||'';field.addEventListener('input',()=>{row[key]=field.value;mark();list()});label.append(field);$('editor').append(label)}$('page').value=row.page||1;showPage();list();}
+async function load(ident,force=false){if(dirty&&!force&&!confirm('Abandonner les modifications non enregistrées ?')){$('documents').value=current.document.document_id;return}lock(true);try{const data=await api('/api/document?id='+encodeURIComponent(ident));current=data;dirty=false;selected=-1;$('search').value='';$('reviewed').checked=false;$('reason').textContent=data.document.motif_selection || ''; $('status').textContent=`${data.rows.length} lignes · ${data.status.replaceAll('_',' ')}`;$('page').max=data.pages.length;$('page').value=1;list();edit(data.rows.length?0:-1);showPage();notice('Document chargé. Parcours aussi les pages sans annotation proposée.')}catch(e){notice(e.message,true)}finally{lock(false)}}
+async function save(validate){if(!current||busy)return;if(validate&&(!$('reviewed').checked||!$('reviewer').value.trim())){notice('Renseigne le relecteur et confirme la lecture intégrale.',true);return}if(!validate&&current.status==='valide'&&!confirm('Enregistrer ce brouillon retirera la validation actuelle du document. Continuer ?'))return;lock(true);try{const result=await api('/api/save',{method:'POST',headers:{'Content-Type':'application/json','X-Validation-Token':token},body:JSON.stringify({document_id:current.document.document_id,version:current.version,rows:current.rows,validate,reviewed_all:$('reviewed').checked,reviewer:$('reviewer').value})});dirty=false;await load(current.document.document_id,true);notice((validate?'Document validé. ':'Brouillon enregistré. ')+'Sauvegarde : '+result.backup)}catch(e){notice(e.message,true)}finally{lock(false)}}
+$('documents').onchange=()=>load($('documents').value);
+$('reload').onclick=()=>load($('documents').value);
+$('rows').onchange=()=>edit(Number($('rows').value));
+$('search').oninput=list;
+$('go').onclick=showPage;
+$('toggle').onclick=()=>{textMode=!textMode;$('pdf').hidden=textMode;$('sourceText').hidden=!textMode;$('toggle').textContent=textMode?'Voir le PDF':'Voir le texte extrait';};
+$('add').onclick=()=>{const row=Object.fromEntries(current.fields.map(k=>[k,'']));Object.assign(row,{document_id:current.document.document_id,page:String($('page').value),date_conseil:current.document.dates_seance_dans_grille||current.document.date_nom_fichier,type_nomination:'fonction_individuelle',statut_verification:'a_verifier',mode_proposition:'saisie_interface'});current.rows.push(row);$('search').value='';mark();edit(current.rows.length-1)};
+$('delete').onclick=()=>{if(selected<0||!confirm('Supprimer cette annotation du brouillon ?'))return;current.rows.splice(selected,1);mark();list();edit(current.rows.length?Math.min(selected,current.rows.length-1):-1)};
+$('save').onclick=()=>save(false);$('validate').onclick=()=>save(true);
+window.addEventListener('beforeunload',event=>{if(dirty){event.preventDefault();event.returnValue=''}});
+(async()=>{try{const data=await api('/api/documents');if(data.campagne!=='evaluation_30'||data.documents.length!==30)throw Error('Ancienne campagne détectée. Ouvrez le nouveau lien du notebook pour les 30 PDF.');$('campaign').textContent=`Évaluation sur ${data.documents.length} PDF · ${data.lot}`;token=data.token;for(const doc of data.documents){const option=document.createElement('option');option.value=doc.document_id;option.textContent=doc.ordre_relecture+'. '+doc.document_id;$('documents').append(option)}await load($('documents').value)}catch(e){notice(e.message,true)}})();
+</script>
+</html>

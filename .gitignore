@@ -1,0 +1,69 @@
+# Python : caches et environnements locaux
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Configuration locale et secrets
+.env
+.env.*
+!.env.example
+!.env.template
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.temp
+*.swp
+*.swo
+*.log
+
+# Archives compressees et sauvegardes automatiques
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.bak
+sauvegardes_validation/
+
+# Corpus documentaire local (conserver les fichiers sur le disque)
+/donnees/comptes_rendus/
+/donnees/decrets_remaniement/
+
+# Donnees historiques : conserver les scripts et la documentation
+**/archives/**/*.csv
+**/archives/**/*.json
+**/archives/**/*.pdf
+**/archives/**/*.docx
+**/archives/**/*.xlsx
+
+# Extractions et resultats volumineux regenerables
+/extraction_evaluation/nominations_2015_2025.csv
+/extraction_evaluation/resultats/*.csv
+/extraction_evaluation/evaluation/extractions_pipeline_*.csv
+/normalisation/ministeres/nominations_2015_2025*.csv
+/normalisation/fiabilisation/*.csv
+/normalisation/fiabilisation/*.json
+/normalisation/fiabilisation/dictionnaires/correspondance_ids_personnes.csv
+/normalisation/fiabilisation_test_*/
+
+# Presentation : exports et apercus generes par le script
+/presentation_avancement/diapositive_*.png
+/presentation_avancement/apercu_*.png
+/presentation_avancement/avancement_nominations_*.pdf
+/presentation_avancement/avancement_nominations_*.pptx
+
+# Fichiers de travail du deploiement local
+.sites-runtime/
+.sites-checkout*/

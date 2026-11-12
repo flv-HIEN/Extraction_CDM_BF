@@ -1,0 +1,201 @@
+{
+  "date_audit": "2026-10-16",
+  "objectif": "Construire un pipeline d’extraction des nominations dans les PDF des comptes rendus du Conseil des ministres, puis analyser les trajectoires professionnelles observées.",
+  "inventaire_annuel": [
+    {
+      "annee": 2015,
+      "pdf": 47,
+      "lignes_csv_annuel": 2610,
+      "documents_avec_lignes": 43,
+      "pdf_sans_ligne": 4
+    },
+    {
+      "annee": 2016,
+      "pdf": 46,
+      "lignes_csv_annuel": 2653,
+      "documents_avec_lignes": 39,
+      "pdf_sans_ligne": 7
+    },
+    {
+      "annee": 2017,
+      "pdf": 48,
+      "lignes_csv_annuel": 2148,
+      "documents_avec_lignes": 33,
+      "pdf_sans_ligne": 15
+    },
+    {
+      "annee": 2018,
+      "pdf": 45,
+      "lignes_csv_annuel": 2041,
+      "documents_avec_lignes": 43,
+      "pdf_sans_ligne": 2
+    },
+    {
+      "annee": 2019,
+      "pdf": 42,
+      "lignes_csv_annuel": 1865,
+      "documents_avec_lignes": 40,
+      "pdf_sans_ligne": 2
+    },
+    {
+      "annee": 2020,
+      "pdf": 30,
+      "lignes_csv_annuel": 1415,
+      "documents_avec_lignes": 27,
+      "pdf_sans_ligne": 3
+    },
+    {
+      "annee": 2021,
+      "pdf": 37,
+      "lignes_csv_annuel": 1874,
+      "documents_avec_lignes": 35,
+      "pdf_sans_ligne": 2
+    },
+    {
+      "annee": 2022,
+      "pdf": 7,
+      "lignes_csv_annuel": 701,
+      "documents_avec_lignes": 7,
+      "pdf_sans_ligne": 0
+    },
+    {
+      "annee": 2023,
+      "pdf": 29,
+      "lignes_csv_annuel": 2296,
+      "documents_avec_lignes": 29,
+      "pdf_sans_ligne": 0
+    },
+    {
+      "annee": 2024,
+      "pdf": 35,
+      "lignes_csv_annuel": 2130,
+      "documents_avec_lignes": 35,
+      "pdf_sans_ligne": 0
+    },
+    {
+      "annee": 2025,
+      "pdf": 42,
+      "lignes_csv_annuel": 2421,
+      "documents_avec_lignes": 42,
+      "pdf_sans_ligne": 0
+    }
+  ],
+  "pdf_total": 408,
+  "pdf_sans_ligne_annuelle": 35,
+  "lignes_annuelles": 22154,
+  "lignes_consolidees": 22038,
+  "ecart_net": 116,
+  "lignes_annuelles_absentes_consolide": 298,
+  "lignes_consolide_absentes_annuels": 182,
+  "sha256_consolide": "33158382041cbb594dbd5e47a88f04751a843edd06ad84dab8490420a970b5f6",
+  "bilan_fiabilisation": {
+    "version_pipeline": "1.0",
+    "sha256_source": "33158382041cbb594dbd5e47a88f04751a843edd06ad84dab8490420a970b5f6",
+    "nombre_lignes_source": 22038,
+    "nombre_lignes_dans_periode": 22025,
+    "nombre_identifiants_personnes": 13471,
+    "statuts_identite_lignes": {
+      "coherent_nom_matricule": 13836,
+      "provisoire_nom_seul": 1899,
+      "a_verifier_nom_plusieurs_matricules": 4229,
+      "a_verifier_conflits_multiples": 196,
+      "a_verifier_matricule_partage": 1744,
+      "provisoire_matricule_atypique": 134
+    },
+    "statuts_doublon_lignes": {
+      "non_detecte": 20914,
+      "repetition_textuelle_retenue": 562,
+      "repetition_textuelle_ecartee": 562
+    },
+    "nombre_groupes_doublons": 562,
+    "nombre_groupes_simultanes": 466,
+    "statuts_dates_lignes": {
+      "coherente_nom_fichier": 21432,
+      "discordance_date_a_verifier": 513,
+      "nom_fichier_non_date": 93
+    },
+    "ministeres_originaux": 1068,
+    "ministeres_harmonises": 844,
+    "postes_originaux": 12684,
+    "postes_harmonises": 11639,
+    "fonctions_proposees": {
+      "Directeur général": 944,
+      "Directeur": 3670,
+      "Secrétaire général": 398,
+      "Chargé de mission": 768,
+      "Directeur régional": 930,
+      "Haut-commissaire": 130,
+      "Préfet": 868,
+      "Directeur provincial": 1559,
+      "À qualifier": 5478,
+      "Directeur de cabinet": 119,
+      "Inspecteur général": 78,
+      "Conseiller technique": 484,
+      "Administrateur": 4431,
+      "Chargé d'études": 288,
+      "Inspecteur technique": 619,
+      "Agent comptable": 186,
+      "Membre d'instance": 664,
+      "Chef de département": 333,
+      "Directeur général adjoint": 43,
+      "Gouverneur": 43,
+      "Secrétaire général adjoint": 4,
+      "Chef de service": 1
+    },
+    "nombre_lignes_dedoublonnees_dans_periode": 21463,
+    "nombre_lignes_trajectoires_strictes": 7371,
+    "nombre_personnes_trajectoires_strictes": 4957,
+    "limites": [
+      "Identités cohérentes automatiquement, sans certification documentaire ni résolution exhaustive des homonymes.",
+      "Les identités sans matricule restent provisoires ; candidats proposés séparément.",
+      "Répétitions textuelles écartées dans la copie analytique, conservées intégralement dans les annotations.",
+      "Les intitulés complets restent distincts des familles ; aucune fusion historique des ministères.",
+      "Les familles, niveaux et domaines sont des propositions lexicales à valider.",
+      "Les dates discordantes ne sont jamais corrigées automatiquement.",
+      "Le sous-ensemble strict exclut une personne si un événement conservé dans la période reste ambigu ; il n'est pas représentatif de toute la population.",
+      "La couverture documentaire et les erreurs non détectées d'extraction restent à auditer."
+    ]
+  },
+  "decisions_manuelles_importees": 0,
+  "dictionnaires_validations_manuelles": {
+    "postes": 0,
+    "ministeres": 0
+  },
+  "nb_profils_stricts": 4957,
+  "nb_profils_3_dates": 522,
+  "revue": {
+    "fiches": 3000,
+    "lignes_avec_contexte": 8862,
+    "max_observations_fiche": 36,
+    "url": "https://revue-identites-nominations.espace-de-tr-6789.chatgpt.site"
+  },
+  "tests": {
+    "unittest_reussis": 13,
+    "node_reussis": 13,
+    "extraction_ponctuelle": [
+      {
+        "pdf": "donnees/2015/CDM - 2015_01_07.pdf",
+        "lignes": 153,
+        "ocr": false,
+        "schema_13_champs": true
+      },
+      {
+        "pdf": "donnees/2022/CDM - 2022_08_03.pdf",
+        "lignes": 477,
+        "ocr": false,
+        "schema_13_champs": true
+      }
+    ],
+    "limites": "Ces tests techniques ne mesurent pas la précision ou le rappel ; notebook analytique non réexécuté intégralement."
+  },
+  "environnement_scientifique": {
+    "chemin": "/home/flaviehien/miniconda3/envs/memoire_env/bin/python",
+    "Python": "3.11.16",
+    "pandas": "3.0.5",
+    "numpy": "2.4.6",
+    "statsmodels": "0.15.0",
+    "polars": "1.44.0",
+    "tanat": "0.10.4",
+    "PyMuPDF": "1.28.2"
+  }
+}
